@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 [//]: # (Update the profile pic url as needed)
-[profilePic]: (https://pbs.twimg.com/profile_images/660952520945086464/7CBiEIRM_400x400.jpg | width = 200)
+[profilePic]: https://pbs.twimg.com/profile_images/660952520945086464/7CBiEIRM_400x400.jpg "My profile pic. Good looking right?"
 
 [//]: # (Here we display the pic)
-![][profilePic]
+![alt text][profilePic]
 
 Hi, my name is Carlos Gonzalez Diaz. Welcome to my humble site! :D
 
