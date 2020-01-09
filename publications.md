@@ -6,8 +6,8 @@ permalink: /publications/
 
 # Publications
 
-**_Demo Paper_**\
-**Gonzalez Diaz, C.**, Perry, P. and Fiebrink, R., 2019. Interactive Machine Learning for More Expressive Game Interactions. In: Proceedings of the IEEE Conference on Games. London, UK.\
+**_Demo Paper_**<br/>
+**Gonzalez Diaz, C.**, Perry, P. and Fiebrink, R., 2019. Interactive Machine Learning for More Expressive Game Interactions. In: Proceedings of the IEEE Conference on Games. London, UK.<br/>
 [PDF](http://ieee-cog.org/2019/papers/paper_256.pdf) [Conference Website](http://ieee-cog.org/2019/proceedings/)
 
 **_Journal Paper_**\
