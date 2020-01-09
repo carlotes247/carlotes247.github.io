@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 [//]: # (Update the profile pic url as needed)
-[profilePic]: https://www.linkedin.com/dms/C5604AQGgIyPRw1HfXA/profile-originalphoto-shrink_450_600/0?m=AQJtLCeLGbIg2wAAAW-IQnG098QaW9x1QOQxXAHm714keB4OFaMOQ7aQEg&e=1578625453&v=beta&t=sZp86Jj2-7EwNB12Fd2Dwv-EJwwoOmY88o6iYcdY-tc "My profile pic. Good looking right?"
+[profilePic]: https://pbs.twimg.com/profile_images/660952520945086464/7CBiEIRM_400x400.jpg "My profile pic. Good looking right?"
 
 [//]: # (Here we display the pic)
 ![alt text][profilePic]
