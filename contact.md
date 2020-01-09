@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact"
+permalink: /contact/
 ---
 Hi, my name is Carlos Gonzalez Diaz. Welcome to my website! 
 Follow me on twitter at [@Carlotes247](http://www.twitter.com)
