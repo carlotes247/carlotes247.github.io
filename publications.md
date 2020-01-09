@@ -10,7 +10,7 @@ permalink: /publications/
 **Gonzalez Diaz, C.**, Perry, P. and Fiebrink, R., 2019. Interactive Machine Learning for More Expressive Game Interactions. In: Proceedings of the IEEE Conference on Games. London, UK.<br/>
 [[PDF]](http://ieee-cog.org/2019/papers/paper_256.pdf) | [[Conference Website]](http://ieee-cog.org/2019/proceedings/)
 
-**_Journal Paper_**<br/>
+**_Conference Paper_**<br/>
 Gaina, R., Volkovas, R., **Gonzalez Diaz, C.** and Davidson, R., 2017. Automatic Game Tuning for Strategic Diversity. In: 2017 9th Computer Science and Electronic Engineering (CEEC). Colchester, UK: IEEE.<br/>
 [[Publisher Page (IEEE Xplore)]](https://ieeexplore.ieee.org/abstract/document/8101624)
 
