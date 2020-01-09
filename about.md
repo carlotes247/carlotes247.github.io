@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 [//]: # (Update the profile pic url as needed)
-[profilePic]: https://pbs.twimg.com/profile_images/660952520945086464/7CBiEIRM_400x400.jpg "My profile pic. Good looking right?"
+[profilePic]: (https://pbs.twimg.com/profile_images/660952520945086464/7CBiEIRM_400x400.jpg | width = 200) "My profile pic. Good looking right?"
 
 [//]: # (Here we display the pic)
 ![alt text][profilePic]
@@ -25,7 +25,7 @@ If you fancy my academic emails, you can choose between:
 
 This is a very lightweight website and the idea is show some of my research and work. Bear in mind that I am a massive nerd and you are going to see things about tech, videogames, VR, psychology and even neuroscience! 
 
-And if you are interested, here you can find a bit about myself :) Don't forget to check my PhD [profile](http://www.iggi.org.uk/students/2016/carlos-gonzalez-diaz/) as well
+And if you are interested, here you can find a bit about myself :) Don't forget to check my [PhD profile](http://www.iggi.org.uk/students/2016/carlos-gonzalez-diaz/) as well
 
 # BIO
 
