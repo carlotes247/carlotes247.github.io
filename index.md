@@ -15,7 +15,7 @@ layout: page
 
 Hi, my name is Carlos Gonzalez Diaz. Welcome to my humble site! :D
 
-I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence ([IGGI](http://www.iggi.org.uk/)) in the UK. The institutions where I am being trained to succed in my doctorate are the [University of York](https://www.york.ac.uk), [Goldsmiths, University of London](https://www.gold.ac.uk) and [Queen Mary, University of London](https://www.qmul.ac.uk). Don't forget to check my [PhD programme profile](http://www.iggi.org.uk/students/2016/carlos-gonzalez-diaz/) as well.
+I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence ([IGGI](http://www.iggi.org.uk/)) in the UK. The institutions where I am being trained to succeed in my doctorate are the [University of York](https://www.york.ac.uk), [Goldsmiths, University of London](https://www.gold.ac.uk) and [Queen Mary, University of London](https://www.qmul.ac.uk). Don't forget to check my [PhD programme profile](http://www.iggi.org.uk/students/2016/carlos-gonzalez-diaz/) as well.
 
 First, you can check more [about me](https://carlotes247.github.io/about/) or go and check my [publications](https://carlotes247.github.io/publications/). You can also look at some of the [games I developed](https://carlotes247.github.io/games/).
 
