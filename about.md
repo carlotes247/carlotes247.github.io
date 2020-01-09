@@ -12,7 +12,7 @@ permalink: /about/
 
 Hi, my name is Carlos Gonzalez Diaz. Welcome to my humble site! :D
 
-First, don't forget to check my [publications](https://carlotes247.github.io/publications/)
+First, don't forget to check my [publications](https://carlotes247.github.io/publications/). You can also look at some of the [games I developed](https://carlotes247.github.io/games/).
 
 Then, go follow me on twitter at [@Carlotes247](http://www.twitter.com/carlotes247). I share a lot of sciency and techy stuff there that I enjoy. I can be a source of interesting AI, Machine Learning, VR, Games and HCI tweets/retweets! 
 
