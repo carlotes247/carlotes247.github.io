@@ -22,11 +22,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: carlotes247
 github_username:  carlotes247
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# Build settings (from minima)
+#markdown: kramdown
+# removed any theme references since I am using a custom theme
+#theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -39,3 +40,21 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Build settings (from creative-theme-jekyll-new)
+safe: true # always trues on github-pages, disables _plugins/
+markdown: kramdown
+sass:
+  indentWidth: 4
+  style: compressed
+  precision: 10
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - build-in-docker.sh
+  - README.md
