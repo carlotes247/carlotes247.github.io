@@ -1,0 +1,69 @@
+.container {
+    position: relative
+  }
+  
+  .background-video {
+    background-position: top center;
+    background-repeat: no-repeat;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: -99;
+    min-height: 300%;
+    min-width: 300%;
+  }
+  
+  video,
+  source {
+    bottom: 0;
+    left: 0;
+    min-height: 300%;
+    min-width: 300%;
+    position: absolute;
+  }
+  
+  .loaded .ytplayer-container {
+    display: block;
+  }
+  
+  .loaded .placeholder-image {
+    opacity: 0;
+  }
+  
+  .ytplayer-container {
+    bottom: 0;
+    height: 300%;
+    left: 0;
+    min-width: 300%;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -60;
+  }
+  
+  .placeholder-image {
+    height: 300%;
+    left: 0;
+    min-height: 300%;
+    min-width: 300%;
+    position: fixed;
+    top: 0;
+    z-index: -70;
+  }
+  
+  .ytplayer-shield {
+    height: 300%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 300%;
+    z-index: -80;
+  }
+  
+  .ytplayer-player {
+    position: absolute;
+  }
