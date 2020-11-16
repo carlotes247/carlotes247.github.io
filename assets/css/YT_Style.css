@@ -12,16 +12,16 @@
     right: 0;
     top: 0;
     z-index: -99;
-    min-height: 300%;
-    min-width: 300%;
+    min-height: 100%;
+    min-width: 100%;
   }
   
   video,
   source {
     bottom: 0;
     left: 0;
-    min-height: 300%;
-    min-width: 300%;
+    min-height: 100%;
+    min-width: 100%;
     position: absolute;
   }
   
@@ -35,9 +35,9 @@
   
   .ytplayer-container {
     bottom: 0;
-    height: 300%;
+    height: 100%;
     left: 0;
-    min-width: 300%;
+    min-width: 100%;
     overflow: hidden;
     position: absolute;
     right: 0;
@@ -46,21 +46,21 @@
   }
   
   .placeholder-image {
-    height: 300%;
+    height: 100%;
     left: 0;
-    min-height: 300%;
-    min-width: 300%;
+    min-height: 100%;
+    min-width: 100%;
     position: fixed;
     top: 0;
     z-index: -70;
   }
   
   .ytplayer-shield {
-    height: 300%;
+    height: 100%;
     left: 0;
     position: absolute;
     top: 0;
-    width: 300%;
+    width: 100%;
     z-index: -80;
   }
   
