@@ -20,6 +20,9 @@ sections:
     title: PhD Candidate at the leading IGGI CDT in the UK 
     text: I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. The institutions where I am being trained to succeed in my doctorate are the University of York, Goldsmiths - University of London and Queen Mary - University of London. 
     actions: 
+      - title: Skills
+        url: '#skills'
+        class: btn-light
       - title: Education
         url: '#timeline'
         class: btn-light
@@ -28,29 +31,34 @@ sections:
         class: btn-light
 
   - type: services.html
-    section_id: services
+    section_id: skills
     #background_style: bg-info
-    title: At Your Service
+    title: Skills
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+      - title: Computer Science
+        text: 6+ years programming. C#, C++, Java, Python, C, JS, HTML5... and the curiosity to learn more!
+        icon: fa-laptop-code text-info
+      - title: Doctoral Research 
+        text: Qualitative and Quantitative methods, HCI, Player/User Experience
+        icon: fa-user-graduate
+      - title: Immersive Tech
+        text: 3+ years experience on XR SDKs and APIs. Oculus, Steam, PSVR, Vuforia.
+        icon: fa-vr-cardboard text-info
+      - title: Machine Learning
+        text: Theoretical and practical ML. Lover of IML <3
+        icon: fa-brain
+      - title: Games R&D
+        text: Passion for games and games tech. PhD in IML for VR Games. Unity, UE, Custom Engines.
+        icon: fa-gamepad text-info
+      - title: Team Player
+        text: Enjoys working closely with others and can also work independently.
+        icon: fa-users
+      - title: SW Engineering
+        text: Data Structures, Algorithms, Version Control... I even made my own visual scripting language!
+        icon: fa-code-branch text-info
+      - title: Public Speaking
+        text: Speaker at different industry and academic conferences. Some of the venues include IEEE CoG, ACM MOCO, NordiCHI, Develop or Games Week Berlin.
+        icon: fa-chalkboard-teacher
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
