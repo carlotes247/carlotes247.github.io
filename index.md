@@ -23,11 +23,11 @@ sections:
       - title: Skills
         url: '#skills'
         class: btn-light
-      - title: Education
-        url: '#timeline'
+      - title: Projects
+        url: '#portfolio'
         class: btn-light
-      - title: Work Experience
-        url: '#timeline'
+      - title: Experience
+        url: '#experience'
         class: btn-light
 
   - type: services.html
@@ -65,13 +65,13 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: InteractML
+        text: Interactive Machine Learning Visual Scripting for Unity
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
+        url: http://interactml.com/
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
@@ -91,45 +91,78 @@ sections:
       - title: Project 6
         text: This is a very short project description.
         icon: 6.jpg
-        url: '#'
+        url: '#'     
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+  - type: timeline.html
+    section_id: experience
+    title: Previous Experience
+    background_style: bg-info text-light
+    last_image: assets/img/timeline-end.png
+    actions:      
+      - image: assets/img/portfolio/thumbnails/1.jpg
+        title: >+
+          2015
+          **BSc Software Engineering**
+        text: >-
+          Rey Juan Carlos University, Specialization: Game Technologies. Madrid (Spain) 
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          2015
+          **Internship Serious Games Developer**
+        text: >-
+           IUS Innovation. 6 Months. Unity 3D and iOS, C#. Skövde (Sweden).
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          2015
+          **MSc Serious Games**
+        text: >-
+          University of Skövde, School of Informatics, Skövde (Sweden)   
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          2016
+          **MSc Digital Narration : Game and Cultural Heritage**
+        text: >-
+          University of Skövde, School of Informatics, Skövde (Sweden)  
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          2017 - 2018
+          **University Teaching Assistant**
+        text: >-
+           University of York. 6 Months. Unity 3D and Processing. York (UK).
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          2018
+          **Research Engineer Internship**
+        text: >-
+            Sony Interactive Entertainment R&D West. 6 Months. Unity 3D, C#, PS4, PSVR SDK. Londo (UK)
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          2019
+          **AI Consulting**
+        text: >-
+            Unity Technologies. 4 weeks. C#, Python. London (UK).
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          2019
+          **Doctoral Research Placement**
+        text: >-
+            Google Artists + Machine Intelligence (AMI) project at Goldsmiths, University of London. 4 Months. Unity 3D, C#, C++, Interactive Machine Learning. London (UK). 
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          2021
+          **PhD in Intelligent Games and Games Intelligence (IGGI)**
+        text: >-
+            University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.       
+
 
   - type: members.html
     section_id: members
-    title: A pic of me!
+    title: Thanks for reading :)
     background_style: bg-info text-white
     members:
       - title: Carlos Gonzalez Diaz
         text: 
-        image: assets/img/members/Carlos_Picture_01_Medium.jpg        
-
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+        image: assets/img/members/Carlos_Picture_01_Medium.jpg   
 
   - type: contact.html
     section_id: contacts
