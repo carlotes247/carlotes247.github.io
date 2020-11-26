@@ -17,7 +17,7 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: PhD Candidate at the leading IGGI CDT in the UK 
+    title: Intelligent Games and Games Intelligence (IGGI) PhD 
     text: I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. The institutions where I am being trained to succeed in my doctorate are the University of York, Goldsmiths - University of London and Queen Mary - University of London. 
     actions: 
       - title: Skills
@@ -72,24 +72,24 @@ sections:
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: http://interactml.com/
-      - title: Project 2
-        text: This is a very short project description.
+      - title: Attitude MSc Research Project
+        text: MSc Investigation on How an iOS Game can Affect Attitudes towards Bullying in Children
         icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
+        url: '#skills'
+      - title: BSc Firearm Simulator
+        text: Virtual Firearm Simulator built in Unity3D and Connected to Custom Replica
         icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
+        url: '#about'
+      - title: BSc Firearm Replica
+        text: Modified Physical Replica of Firearm. Arduino, Wii remote, Unity3D
         icon: 4.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
+      - title: PhD Research Prototype 1
+        text: Motion Controlled Research Prototype for Study on Immersion
         icon: 5.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+      - title: PhD Research Prototype 2
+        text: Hand-tracked Research Prototype using Machine Learning for Motion Recognition
         icon: 6.jpg
         url: '#'     
 
