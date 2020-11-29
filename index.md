@@ -18,7 +18,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Intelligent Games and Games Intelligence (IGGI) PhD 
-    text: I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. The institutions where I am being trained to succeed in my doctorate are the University of York, Goldsmiths - University of London and Queen Mary - University of London. 
+    text: I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. The institutions where I am being trained to succeed in my doctorate are the University of York, Goldsmiths - University of London and Queen Mary - University of London. My current research interests are (1) Playful uses of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience. 
     actions: 
       - title: Skills
         url: '#skills'
