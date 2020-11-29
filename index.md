@@ -12,7 +12,7 @@ header:
     label: More About Me
     url: '#about'
 
-
+# About
 sections:
   - type: call-to-action.html
     section_id: about
@@ -30,6 +30,7 @@ sections:
         url: '#experience'
         class: btn-light
 
+  # Skills
   - type: services.html
     section_id: skills
     #background_style: bg-info
@@ -60,6 +61,7 @@ sections:
         text: Speaker at different industry and academic conferences. Some of the venues include IEEE CoG, ACM MOCO, NordiCHI, Develop or Games Week Berlin.
         icon: fa-chalkboard-teacher
 
+  # Portfolio
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio
@@ -93,6 +95,7 @@ sections:
         icon: 6.jpg
         url: '#'     
 
+  # Timeline
   - type: timeline.html
     section_id: experience
     title: Previous Experience
@@ -155,7 +158,7 @@ sections:
             University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.       
 
 
-
+  # Contact
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
