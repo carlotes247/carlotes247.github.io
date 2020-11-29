@@ -97,57 +97,57 @@ sections:
     section_id: experience
     title: Previous Experience
     background_style: bg-info text-light
-    last_image: assets/img/timeline-end.png
+    last_image: assets/img/members/Carlos_Picture_01_Medium.jpg
     actions:      
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/logos/urjc.png
         title: >+
           2015
           **BSc Software Engineering**
         text: >-
           Rey Juan Carlos University, Specialization: Game Technologies. Madrid (Spain) 
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/logos/IUSinnovation.png
         title: >+
           2015
           **Internship Serious Games Developer**
         text: >-
            IUS Innovation. 6 Months. Unity 3D and iOS, C#. Skövde (Sweden).
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/logos/skovde.jpeg
         title: >+
           2015
           **MSc Serious Games**
         text: >-
           University of Skövde, School of Informatics, Skövde (Sweden)   
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/logos/skovde.jpeg
         title: >+
           2016
           **MSc Digital Narration : Game and Cultural Heritage**
         text: >-
           University of Skövde, School of Informatics, Skövde (Sweden)  
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/logos/UoYork.jpg
         title: >+
           2017 - 2018
           **University Teaching Assistant**
         text: >-
            University of York. 6 Months. Unity 3D and Processing. York (UK).
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/logos/sie.png
         title: >+
           2018
           **Research Engineer Internship**
         text: >-
             Sony Interactive Entertainment R&D West. 6 Months. Unity 3D, C#, PS4, PSVR SDK. Londo (UK)
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/logos/unity.png
         title: >+
           2019
           **AI Consulting**
         text: >-
             Unity Technologies. 4 weeks. C#, Python. London (UK).
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/logos/GS_UoL.png
         title: >+
           2019
-          **Doctoral Research Placement**
+          **ML for Game Engines Project**
         text: >-
             Google Artists + Machine Intelligence (AMI) project at Goldsmiths, University of London. 4 Months. Unity 3D, C#, C++, Interactive Machine Learning. London (UK). 
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/logos/UoYork.jpg
         title: >+
           2021
           **PhD in Intelligent Games and Games Intelligence (IGGI)**
@@ -155,14 +155,6 @@ sections:
             University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.       
 
 
-  - type: members.html
-    section_id: members
-    title: Thanks for reading :)
-    background_style: bg-info text-white
-    members:
-      - title: Carlos Gonzalez Diaz
-        text: 
-        image: assets/img/members/Carlos_Picture_01_Medium.jpg   
 
   - type: contact.html
     section_id: contacts
@@ -171,19 +163,18 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: mailto:cgd506@york.ac.uk
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
+      url: http://www.twitter.com/carlotes247
+    - title: Linkedin
+      icon: fa-linkedin
       icon_type: fab
-      url: '#'
+      url: https://www.linkedin.com/in/carlosglesdiaz/ 
+
 ---
 
 [//]: # (Update the profile pic url as needed)
