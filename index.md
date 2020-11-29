@@ -155,8 +155,37 @@ sections:
           2021
           **PhD in Intelligent Games and Games Intelligence (IGGI)**
         text: >-
-            University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.       
+            University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.          
 
+  # Awards
+  - type: services.html
+    section_id: awards
+    #background_style: bg-info
+    title: Awards
+    services:
+      - title: EPSRC Doctoral Scholarship Award 
+        text:  2016 - 2021. PhD at the University of York, UK.
+        icon: fa-award
+      - title: 1st Prize HTC Vive Hackathon 2020
+        text: 15 teams. London, UK. VR, Machine Learning, C#, Unity3D. 
+        icon: fa-trophy
+        url: https://doc.gold.ac.uk/blog/?p=2886
+      - title: People’s Choice Award 2017
+        text: DEN Entrepreneurship Hackathon. London, UK. 
+        icon: fa-medal
+      - title: 1st Prize (Art&Audio) York’s Global Game Jam 2017 
+        text: 18 teams. York, UK. C#, Unity3D. 
+        icon: fa-trophy      
+        url: https://globalgamejam.org/2017/games/wavelength-2
+      - title: 2nd Prize (Concept) York’s Global Game Jam 2017 
+        text: 18 teams. York, UK. C#, Unity3D. 
+        icon: fa-medal      
+        url: https://globalgamejam.org/2017/games/wavelength-2
+      - title: 2nd Prize in the Madrid Global Game Jam 2014 
+        text: 11 teams. Madrid, Spain. C#, Unity3D. 
+        icon: fa-medal
+        url: gamejam.es/2014/games.html
+      
 
   # Contact
   - type: contact.html
