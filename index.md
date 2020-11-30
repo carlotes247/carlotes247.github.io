@@ -61,6 +61,69 @@ sections:
         text: Speaker at different industry and academic conferences. Some of the venues include IEEE CoG, ACM MOCO, NordiCHI, Develop or Games Week Berlin.
         icon: fa-chalkboard-teacher
 
+  # Timeline
+  - type: timeline.html
+    section_id: experience
+    title: Previous Experience
+    background_style: bg-info text-light
+    last_image: assets/img/members/Carlos_Picture_01_Medium.jpg
+    actions:      
+      - image: assets/img/logos/UoYork.jpg
+        title: >+
+          2021
+          **PhD in Intelligent Games and Games Intelligence (IGGI)**
+        text: >-
+            University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.             
+      - image: assets/img/logos/GS_UoL.png
+        title: >+
+          2019
+          **ML for Game Engines Project**
+        text: >-
+            Google Artists + Machine Intelligence (AMI) project at Goldsmiths, University of London. 4 Months. Unity 3D, C#, C++, Interactive Machine Learning. London (UK). 
+      - image: assets/img/logos/unity.png
+        title: >+
+          2019
+          **AI Consulting**
+        text: >-
+            Unity Technologies. 4 weeks. C#, Python. London (UK).
+      - image: assets/img/logos/sie.png
+        title: >+
+          2018
+          **Research Engineer Internship**
+        text: >-
+            Sony Interactive Entertainment R&D West. 6 Months. Unity 3D, C#, PS4, PSVR SDK. Londo (UK)
+      - image: assets/img/logos/UoYork.jpg
+        title: >+
+          2017 - 2018
+          **University Teaching Assistant**
+        text: >-
+           University of York. 6 Months. Unity 3D and Processing. York (UK).
+      - image: assets/img/logos/skovde.jpeg
+        title: >+
+          2016
+          **MSc Digital Narration : Game and Cultural Heritage**
+        text: >-
+          University of Skövde, School of Informatics, Skövde (Sweden)  
+      - image: assets/img/logos/skovde.jpeg
+        title: >+
+          2015
+          **MSc Serious Games**
+        text: >-
+          University of Skövde, School of Informatics, Skövde (Sweden)
+      - image: assets/img/logos/IUSinnovation.png
+        title: >+
+          2015
+          **Internship Serious Games Developer**
+        text: >-
+           IUS Innovation. 6 Months. Unity 3D and iOS, C#. Skövde (Sweden).
+      - image: assets/img/logos/urjc.png
+        title: >+
+          2015
+          **BSc Software Engineering**
+        text: >-
+          Rey Juan Carlos University, Specialization: Game Technologies. Madrid (Spain) 
+         
+
   # Portfolio
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -95,68 +158,6 @@ sections:
         icon: 6.jpg
         url: '#'     
 
-  # Timeline
-  - type: timeline.html
-    section_id: experience
-    title: Previous Experience
-    background_style: bg-info text-light
-    last_image: assets/img/members/Carlos_Picture_01_Medium.jpg
-    actions:      
-      - image: assets/img/logos/urjc.png
-        title: >+
-          2015
-          **BSc Software Engineering**
-        text: >-
-          Rey Juan Carlos University, Specialization: Game Technologies. Madrid (Spain) 
-      - image: assets/img/logos/IUSinnovation.png
-        title: >+
-          2015
-          **Internship Serious Games Developer**
-        text: >-
-           IUS Innovation. 6 Months. Unity 3D and iOS, C#. Skövde (Sweden).
-      - image: assets/img/logos/skovde.jpeg
-        title: >+
-          2015
-          **MSc Serious Games**
-        text: >-
-          University of Skövde, School of Informatics, Skövde (Sweden)   
-      - image: assets/img/logos/skovde.jpeg
-        title: >+
-          2016
-          **MSc Digital Narration : Game and Cultural Heritage**
-        text: >-
-          University of Skövde, School of Informatics, Skövde (Sweden)  
-      - image: assets/img/logos/UoYork.jpg
-        title: >+
-          2017 - 2018
-          **University Teaching Assistant**
-        text: >-
-           University of York. 6 Months. Unity 3D and Processing. York (UK).
-      - image: assets/img/logos/sie.png
-        title: >+
-          2018
-          **Research Engineer Internship**
-        text: >-
-            Sony Interactive Entertainment R&D West. 6 Months. Unity 3D, C#, PS4, PSVR SDK. Londo (UK)
-      - image: assets/img/logos/unity.png
-        title: >+
-          2019
-          **AI Consulting**
-        text: >-
-            Unity Technologies. 4 weeks. C#, Python. London (UK).
-      - image: assets/img/logos/GS_UoL.png
-        title: >+
-          2019
-          **ML for Game Engines Project**
-        text: >-
-            Google Artists + Machine Intelligence (AMI) project at Goldsmiths, University of London. 4 Months. Unity 3D, C#, C++, Interactive Machine Learning. London (UK). 
-      - image: assets/img/logos/UoYork.jpg
-        title: >+
-          2021
-          **PhD in Intelligent Games and Games Intelligence (IGGI)**
-        text: >-
-            University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.          
-
   # Awards
   - type: services.html
     section_id: awards
@@ -185,6 +186,40 @@ sections:
         text: 11 teams. Madrid, Spain. C#, Unity3D. 
         icon: fa-medal
         url: gamejam.es/2014/games.html
+
+  # Presentations
+  - type: presentations.html
+    # this section has always ID 'portfolio'
+    #section_id: presentations
+    #background_style: bg-dark
+    presentations:
+      - title: InteractML
+        text: Interactive Machine Learning Visual Scripting for Unity
+        # the images are located in:
+        # img/portfolio/fullsize
+        # img/portfolio/thumbnails
+        icon: 1.jpg
+        url: http://interactml.com/
+      - title: Attitude MSc Research Project
+        text: MSc Investigation on How an iOS Game can Affect Attitudes towards Bullying in Children
+        icon: 2.jpg
+        url: '#skills'
+      - title: BSc Firearm Simulator
+        text: Virtual Firearm Simulator built in Unity3D and Connected to Custom Replica
+        icon: 3.jpg
+        url: '#about'
+      - title: BSc Firearm Replica
+        text: Modified Physical Replica of Firearm. Arduino, Wii remote, Unity3D
+        icon: 4.jpg
+        url: '#'
+      - title: PhD Research Prototype 1
+        text: Motion Controlled Research Prototype for Study on Immersion
+        icon: 5.jpg
+        url: '#'
+      - title: PhD Research Prototype 2
+        text: Hand-tracked Research Prototype using Machine Learning for Motion Recognition
+        icon: 6.jpg
+        url: '#'     
       
 
   # Contact
