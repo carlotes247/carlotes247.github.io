@@ -190,7 +190,7 @@ sections:
   # Presentations
   - type: presentations.html
     # this section has always ID 'portfolio'
-    #section_id: presentations
+    section_id: presentations
     #background_style: bg-dark
     # the images are located in:
         # img/presentations/fullsize
@@ -202,21 +202,21 @@ sections:
         icon: 4.jpg
         url: '#'
         vid: 'iggi-video'    
-      - title: Game Dev London VR Presentation
-        text: Introducing InteractML, a ML visual scripting framework for Unity        
-        icon: gamedevlondon.jpg
-        url: http://interactml.com/
-        vid: 'gdl-video'
       - title: Understanding Natural Controls in Virtual Reality Games
         text: Presented at the Doctoral Symposium of the MOCO17 Conference, this talks briefly introduces the research during my first year of doctoral studies at the Univeristy of York.
         icon: 2.jpg
         url: '#skills'
         vid: 'moco-video'
-      - title: Procedural Content Generation Summer School 2019
-        text: Small proyect attempting to combine procedural content generation of geometry together with a supervised learning algorithm trained on input data.
-        icon: 3.jpg
-        url: '#about'
-        vid: 'pcg-video'           
+      - title: Game Dev London VR Presentation
+        text: Introducing InteractML, a ML visual scripting framework for Unity        
+        icon: gamedevlondon.jpg
+        url: http://interactml.com/
+        vid: 'gdl-video'
+      ##- title: Procedural Content Generation Summer School 2019
+        ##text: Small proyect attempting to combine procedural content generation of geometry together with a supervised learning algorithm trained on input data.
+        ##icon: 3.jpg
+        ##url: '#about'
+        ##vid: 'pcg-video'           
       
 
   # Contact
