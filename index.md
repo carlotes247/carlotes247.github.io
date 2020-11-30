@@ -23,17 +23,26 @@ sections:
       - title: Skills
         url: '#skills'
         class: btn-light
-      - title: Projects
-        url: '#portfolio'
-        class: btn-light
       - title: Experience
         url: '#experience'
         class: btn-light
-
+      - title: Projects
+        url: '#portfolio'
+        class: btn-light
+      - title: Presentations
+        url: '#presentations'
+        class: btn-light
+      - title: Awards
+        url: '#awards'
+        class: btn-light
+      - title: Contacts
+        url: '#contacts'
+        class: btn-light
+      
   # Skills
   - type: services.html
     section_id: skills
-    #background_style: bg-info
+    background_style: bg-light
     title: Skills
     services:
       - title: Computer Science
@@ -128,7 +137,8 @@ sections:
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio
-    #background_style: bg-dark
+    background_style: bg-light
+    title: Projects
     projects:
       - title: InteractML
         text: Interactive Machine Learning Visual Scripting for Unity
@@ -158,40 +168,11 @@ sections:
         icon: 6.jpg
         url: '#'     
 
-  # Awards
-  - type: services.html
-    section_id: awards
-    #background_style: bg-info
-    title: Awards
-    services:
-      - title: EPSRC Doctoral Scholarship Award 
-        text:  2016 - 2021. PhD at the University of York, UK.
-        icon: fa-award
-      - title: 1st Prize HTC Vive Hackathon 2020
-        text: 15 teams. London, UK. VR, Machine Learning, C#, Unity3D. 
-        icon: fa-trophy
-        url: https://doc.gold.ac.uk/blog/?p=2886
-      - title: People’s Choice Award 2017
-        text: DEN Entrepreneurship Hackathon. London, UK. 
-        icon: fa-medal
-      - title: 1st Prize (Art&Audio) York’s Global Game Jam 2017 
-        text: 18 teams. York, UK. C#, Unity3D. 
-        icon: fa-trophy      
-        url: https://globalgamejam.org/2017/games/wavelength-2
-      - title: 2nd Prize (Concept) York’s Global Game Jam 2017 
-        text: 18 teams. York, UK. C#, Unity3D. 
-        icon: fa-medal      
-        url: https://globalgamejam.org/2017/games/wavelength-2
-      - title: 2nd Prize in the Madrid Global Game Jam 2014 
-        text: 11 teams. Madrid, Spain. C#, Unity3D. 
-        icon: fa-medal
-        url: gamejam.es/2014/games.html
-
   # Presentations
   - type: presentations.html
     # this section has always ID 'portfolio'
     section_id: presentations
-    #background_style: bg-dark
+    background_style: bg-light
     # the images are located in:
         # img/presentations/fullsize
         # img/presentations/thumbnails
@@ -216,12 +197,42 @@ sections:
         ##text: Small proyect attempting to combine procedural content generation of geometry together with a supervised learning algorithm trained on input data.
         ##icon: 3.jpg
         ##url: '#about'
-        ##vid: 'pcg-video'           
+        ##vid: 'pcg-video' 
+
+  # Awards
+  - type: services.html
+    section_id: awards
+    background_style: bg-light
+    title: Awards
+    services:
+      - title: EPSRC Doctoral Scholarship Award 
+        text:  2016 - 2021. PhD at the University of York, UK.
+        icon: fa-award
+      - title: 1st Prize HTC Vive Hackathon 2020
+        text: 15 teams. London, UK. VR, Machine Learning, C#, Unity3D. 
+        icon: fa-trophy
+        url: https://doc.gold.ac.uk/blog/?p=2886
+      - title: People’s Choice Award 2017
+        text: DEN Entrepreneurship Hackathon. London, UK. 
+        icon: fa-medal
+      - title: 1st Prize (Art&Audio) York’s Global Game Jam 2017 
+        text: 18 teams. York, UK. C#, Unity3D. 
+        icon: fa-trophy      
+        url: https://globalgamejam.org/2017/games/wavelength-2
+      - title: 2nd Prize (Concept) York’s Global Game Jam 2017 
+        text: 18 teams. York, UK. C#, Unity3D. 
+        icon: fa-medal      
+        url: https://globalgamejam.org/2017/games/wavelength-2
+      - title: 2nd Prize in the Madrid Global Game Jam 2014 
+        text: 11 teams. Madrid, Spain. C#, Unity3D. 
+        icon: fa-medal
+        url: gamejam.es/2014/games.html          
       
 
   # Contact
   - type: contact.html
     section_id: contacts
+    background_style: bg-light
     title: Let's Get In Touch!
     text: >-
       Ready to start your next project with us? Give us a call or send us an email
@@ -240,27 +251,3 @@ sections:
       url: https://www.linkedin.com/in/carlosglesdiaz/ 
 
 ---
-
-[//]: # (Update the profile pic url as needed)
-[profilePic]: https://pbs.twimg.com/profile_images/660952520945086464/7CBiEIRM_400x400.jpg "My profile pic. Good looking right?"
-
-[//]: # (Here we display the pic)
-![alt text][profilePic]
-
-
-Hi, my name is Carlos Gonzalez Diaz. Welcome to my humble site! :D
-
-I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence ([IGGI](http://www.iggi.org.uk/)) in the UK. The institutions where I am being trained to succeed in my doctorate are the [University of York](https://www.york.ac.uk), [Goldsmiths, University of London](https://www.gold.ac.uk) and [Queen Mary, University of London](https://www.qmul.ac.uk). Don't forget to check my [PhD programme profile](http://www.iggi.org.uk/students/2016/carlos-gonzalez-diaz/) as well.
-
-First, you can check more [about me](https://carlotes247.github.io/about/) or go and check my [publications](https://carlotes247.github.io/publications/). You can also look at some of the [games I developed](https://carlotes247.github.io/games/).
-
-Then, go follow me on twitter at [@Carlotes247](http://www.twitter.com/carlotes247). I share a lot of sciency and techy stuff there that I enjoy. I can be a source of interesting AI, Machine Learning, VR, Games and HCI tweets/retweets! 
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/carlosglesdiaz/) if you want something more professional. Disclaimer: *it can be outdated*.
-
-You can also email me to carlosglesdiaz (at) gmail (dot) com.
-If you fancy my academic emails, you can choose between:
-- cgd506 (at) york (dot) ac.uk
-- c.gonzalezdiaz (at) gold (dot) ac.uk
-
-And a little reminder that you are probably a wonderful person and I wish you a lovely day <3
