@@ -193,12 +193,12 @@ sections:
     #section_id: presentations
     #background_style: bg-dark
     presentations:
-      - title: InteractML
-        text: Interactive Machine Learning Visual Scripting for Unity
+      - title: Game Dev London VR Presentation
+        text: Introducing InteractML, a ML visual scripting framework for Unity
         # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
+        # img/presentations/fullsize
+        # img/presentations/thumbnails
+        icon: gamedevlondon.jpg
         url: http://interactml.com/
       - title: Attitude MSc Research Project
         text: MSc Investigation on How an iOS Game can Affect Attitudes towards Bullying in Children
