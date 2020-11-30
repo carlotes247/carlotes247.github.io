@@ -192,34 +192,31 @@ sections:
     # this section has always ID 'portfolio'
     #section_id: presentations
     #background_style: bg-dark
-    presentations:
-      - title: Game Dev London VR Presentation
-        text: Introducing InteractML, a ML visual scripting framework for Unity
-        # the images are located in:
+    # the images are located in:
         # img/presentations/fullsize
         # img/presentations/thumbnails
-        icon: gamedevlondon.jpg
-        url: http://interactml.com/
-      - title: Attitude MSc Research Project
-        text: MSc Investigation on How an iOS Game can Affect Attitudes towards Bullying in Children
-        icon: 2.jpg
-        url: '#skills'
-      - title: BSc Firearm Simulator
-        text: Virtual Firearm Simulator built in Unity3D and Connected to Custom Replica
-        icon: 3.jpg
-        url: '#about'
-      - title: BSc Firearm Replica
-        text: Modified Physical Replica of Firearm. Arduino, Wii remote, Unity3D
+    title: Presentations
+    presentations:
+      - title: Interactive Machine Learning for Expressive VR Game Interactions 
+        text: Presentation for the yearly conference of my PhD
         icon: 4.jpg
         url: '#'
-      - title: PhD Research Prototype 1
-        text: Motion Controlled Research Prototype for Study on Immersion
-        icon: 5.jpg
-        url: '#'
-      - title: PhD Research Prototype 2
-        text: Hand-tracked Research Prototype using Machine Learning for Motion Recognition
-        icon: 6.jpg
-        url: '#'     
+        vid: 'iggi-video'    
+      - title: Game Dev London VR Presentation
+        text: Introducing InteractML, a ML visual scripting framework for Unity        
+        icon: gamedevlondon.jpg
+        url: http://interactml.com/
+        vid: 'gdl-video'
+      - title: Understanding Natural Controls in Virtual Reality Games
+        text: Presented at the Doctoral Symposium of the MOCO17 Conference, this talks briefly introduces the research during my first year of doctoral studies at the Univeristy of York.
+        icon: 2.jpg
+        url: '#skills'
+        vid: 'moco-video'
+      - title: Procedural Content Generation Summer School 2019
+        text: Small proyect attempting to combine procedural content generation of geometry together with a supervised learning algorithm trained on input data.
+        icon: 3.jpg
+        url: '#about'
+        vid: 'pcg-video'           
       
 
   # Contact
