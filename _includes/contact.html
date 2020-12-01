@@ -7,11 +7,11 @@
         <p class="text-muted mb-5">{{ section.text }}</p>
       </div>
     </div>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center {{ section.text_style | default: 'text-muted' }}">
       {% for action in section.actions %}
       {% assign fa = action.icon_type | default: "fas" %}
-      <div class="col ml-auto text-center">
-        <i class="{{ fa }} {{ action.icon }} fa-3x mb-3 text-muted"></i>
+      <div class="col ml-auto text-center {{ section.text_style | default: 'text-muted' }}">
+        <i class="{{ fa }} {{ action.icon }} fa-3x mb-3"></i>
         <a class="d-block" href="{{ action.url }}">{{ action.title }}</a>
       </div>
       {% endfor %}

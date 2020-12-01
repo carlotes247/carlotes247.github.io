@@ -239,30 +239,43 @@ sections:
   # Awards
   - type: services.html
     section_id: awards
-    background_style: bg-light
+    background_style: bg-primary
+    title_style: text-white light
     title: Awards
     services:
       - title: EPSRC Doctoral Scholarship Award 
         text:  2016 - 2021. PhD at the University of York, UK.
-        icon: fa-award
+        icon: fa-award text-light
+        title_style: text-white
+        text_style: text-white-50
       - title: 1st Prize HTC Vive Hackathon 2020
         text: 15 teams. London, UK. VR, Machine Learning, C#, Unity3D. 
-        icon: fa-trophy
+        icon: fa-trophy text-light
+        title_style: text-white
+        text_style: text-white-50
         url: https://doc.gold.ac.uk/blog/?p=2886
       - title: People’s Choice Award 2017
         text: DEN Entrepreneurship Hackathon. London, UK. 
-        icon: fa-medal
+        icon: fa-medal text-light
+        title_style: text-white
+        text_style: text-white-50
       - title: 1st Prize (Art&Audio) York’s Global Game Jam 2017 
         text: 18 teams. York, UK. C#, Unity3D. 
-        icon: fa-trophy      
+        icon: fa-trophy text-light
+        title_style: text-white
+        text_style: text-white-50
         url: https://globalgamejam.org/2017/games/wavelength-2
       - title: 2nd Prize (Concept) York’s Global Game Jam 2017 
         text: 18 teams. York, UK. C#, Unity3D. 
-        icon: fa-medal      
+        icon: fa-medal text-light 
+        title_style: text-white
+        text_style: text-white-50  
         url: https://globalgamejam.org/2017/games/wavelength-2
       - title: 2nd Prize in the Madrid Global Game Jam 2014 
         text: 11 teams. Madrid, Spain. C#, Unity3D. 
-        icon: fa-medal
+        icon: fa-medal text-light  
+        title_style: text-white
+        text_style: text-white-50
         url: gamejam.es/2014/games.html          
       
 
@@ -270,10 +283,10 @@ sections:
   - type: contact.html
     section_id: contacts
     background_style: bg-light
+    #text_style: text-light
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Ready to start a conversation into how I might help you? I am currently open for contracting work and internships!
     actions:
     - title: E-Mail
       icon: fa-envelope
