@@ -22,25 +22,25 @@ sections:
     actions: 
       - title: Skills
         url: '#skills'
-        class: btn-light
+        class: btn-light ml-2 mb-2
       - title: Experience
         url: '#experience'
-        class: btn-light
+        class: btn-light ml-2 mb-2
       - title: Publications
         url: '#publications'
-        class: btn-light
+        class: btn-light ml-2 mb-2
       - title: Projects
         url: '#portfolio'
-        class: btn-light
+        class: btn-light ml-2 mb-2
       - title: Presentations
         url: '#presentations'
-        class: btn-light
+        class: btn-light ml-2 mb-2
       - title: Awards
         url: '#awards'
-        class: btn-light
+        class: btn-light ml-2 mb-2
       - title: Contacts
         url: '#contacts'
-        class: btn-light
+        class: btn-light ml-2 mb-2
       
   # Skills
   - type: services.html
