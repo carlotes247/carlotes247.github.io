@@ -2,9 +2,16 @@
   <div class="container">
     <h2 class="text-center mt-0">{{ section.title }}</h2>
     <hr class="divider my-4">
-    <div class="row justify-content-center">
-      <div class="mb-4 {{ section.text_style | default: "text-muted" }}">
-        {{ section.text | newline_to_br | markdownify }}
+    <div class="justify-content-center">
+      {% for paragraph in section.paragraphs %}
+        <div class="mb-4 {{ section.text_style | default: 'text-muted' }}">        
+          <i class="fas fa-4x {{ paragraph.icon }} text-primary ml-2 mb-2"></i>  
+          <h4 class="h4 mb-2">{{ paragraph.title | newline_to_br | markdownify }} </h4>        
+          <p class="ml-4">
+            {{ paragraph.text | newline_to_br | markdownify }}        
+          </p>       
+        </div>
+      {% endfor %}        
       </div>
     </div>
     {% include actions.html actions=section.actions %}
