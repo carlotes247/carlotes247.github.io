@@ -1,24 +1,17 @@
 jQuery(function($) {    
   
-    $('#module-video').YTPlayer({
-      fitToBackground: false,
-      videoId: 'jKCyFB5LmPo',
-      pauseOnScroll: false,
-      playerVars: {
-        modestbranding: 0,
-        autoplay: 1,
-        controls: 1,
-        showinfo: 0,
-        branding: 0,
-        rel: 0,
-        autohide: 0
-      }
-    });
-    
     $('#background-video').YTPlayer({
       fitToBackground: true,
       videoId: 'taVry9IQUjE',
-      pauseOnScroll: false,      
+      pauseOnScroll: false,  
+      playerVars: {
+        modestbranding: 1,
+        autoplay: 1,
+        controls: 0,
+        disablekb: 1,
+        showinfo: 0,
+        branding: 1        
+      },    
       callback: function() {
         videoCallbackEvents();
       }
