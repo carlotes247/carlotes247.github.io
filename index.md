@@ -17,8 +17,17 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: Intelligent Games and Games Intelligence (IGGI) PhD 
-    text: I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. The institutions where I am being trained to succeed in my doctorate are the University of York, Goldsmiths - University of London and Queen Mary - University of London. My current research interests are (1) Playful uses of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience. 
+    title: "**Intelligent Games and Games Intelligence (IGGI) PhD**"
+    text: "I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. 
+  
+
+    My current research interests are ***(1) Interactive use of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience.***   
+    
+
+    The institutions where I am being trained to succeed in my doctorate are the University of York, Goldsmiths - University of London and Queen Mary - University of London. 
+    
+    
+    I am supervised by [Prof. Sebastian Deterding](https://www.york.ac.uk/tfti/staff/research/sebastian-deterding/) and [Dr. Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/)."
     actions: 
       - title: Skills
         url: '#skills'
@@ -52,7 +61,7 @@ sections:
         text: 6+ years programming. C#, C++, Java, Python, C, JS, HTML5... and the curiosity to learn more!
         icon: fa-laptop-code text-info
       - title: HCI Research 
-        text: Qualitative and Quantitative methods, HCI, User Experience , Interaction Analysis
+        text: Qualitative and Quantitative methods, HCI, User Experience, Interaction Analysis
         icon: fa-user-graduate
       - title: Immersive Tech
         text: 3+ years experience on XR SDKs and APIs. Oculus, Steam, PSVR, Vuforia.
