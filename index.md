@@ -51,14 +51,14 @@ sections:
       - title: Computer Science
         text: 6+ years programming. C#, C++, Java, Python, C, JS, HTML5... and the curiosity to learn more!
         icon: fa-laptop-code text-info
-      - title: Doctoral Research 
-        text: Qualitative and Quantitative methods, HCI, Player/User Experience
+      - title: HCI Research 
+        text: Qualitative and Quantitative methods, HCI, User Experience , Interaction Analysis
         icon: fa-user-graduate
       - title: Immersive Tech
         text: 3+ years experience on XR SDKs and APIs. Oculus, Steam, PSVR, Vuforia.
         icon: fa-vr-cardboard text-info
       - title: Machine Learning
-        text: Theoretical and practical ML. Lover of IML <3
+        text: Theoretical and Practical. Interactive Machine Learning (C++/C#), TensorFlow (C#/Python)
         icon: fa-brain
       - title: Games R&D
         text: Passion for games and games tech. PhD in IML for VR Games. Unity, UE, Custom Engines.
