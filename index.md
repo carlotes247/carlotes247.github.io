@@ -252,6 +252,12 @@ sections:
     title_style: text-white light
     title: Awards
     services:
+      - title: XR4ALL EU Horizon 2020 Grant Award
+        text:  2020 - 2021. ML to predict user learning in VR. London, UK.
+        icon: fa-file-invoice-dollar text-light
+        title_style: text-white
+        text_style: text-white-50
+        url: https://xr4all.eu/results-phase1-2nd-open-call/  
       - title: EPSRC Doctoral Scholarship Award 
         text:  2016 - 2021. PhD at the University of York, UK.
         icon: fa-award text-light
