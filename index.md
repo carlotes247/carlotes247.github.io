@@ -286,6 +286,12 @@ sections:
         title_style: text-white
         text_style: text-white-50  
         url: https://globalgamejam.org/2017/games/wavelength-2
+      - title: 1st Prize DEN Break the Museum Hackathon 
+        text: 10 teams. Newcastle, UK. C#, C++, Unity3D. 
+        icon: fa-medal text-light 
+        title_style: text-white
+        text_style: text-white-50  
+        url: https://globalgamejam.org/2017/games/wavelength-2
       - title: 2nd Prize in the Madrid Global Game Jam 2014 
         text: 11 teams. Madrid, Spain. C#, Unity3D. 
         icon: fa-medal text-light  
