@@ -91,10 +91,22 @@ sections:
     actions:      
       - image: assets/img/logos/UoYork.jpg
         title: >+
-          2021
+          2022
           **PhD in Intelligent Games and Games Intelligence (IGGI)**
         text: >-
             University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.             
+      - image: assets/img/logos/ms_logo_small.jpg
+        title: >+
+          2021
+          **HCI Research Internship**
+        text: >-
+            Microsoft Research Cambridge. 4 Months. Unity 3D, Microsoft Mesh, C#. Cambridge (UK) 
+      - image: assets/img/logos/musemio_logo.jpg
+        title: >+
+          2021
+          **VR-ML Research Project**
+        text: >-
+            Musemio Limited. 4 Months. Unity 3D, C#, C++, Machine Learning. London (UK) 
       - image: assets/img/logos/GS_UoL.png
         title: >+
           2019
@@ -112,7 +124,7 @@ sections:
           2018
           **Research Engineer Internship**
         text: >-
-            Sony Interactive Entertainment R&D West. 6 Months. Unity 3D, C#, PS4, PSVR SDK. Londo (UK)
+            Sony Interactive Entertainment R&D West. 6 Months. Unity 3D, C#, PS4, PSVR SDK. London (UK)
       - image: assets/img/logos/UoYork.jpg
         title: >+
           2017 - 2018
