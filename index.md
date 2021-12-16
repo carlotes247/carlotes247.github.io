@@ -101,7 +101,7 @@ sections:
           **HCI Research Internship**
         text: >-
             Microsoft Research Cambridge. 4 Months. Unity 3D, Microsoft Mesh, C#. Cambridge (UK) 
-      - image: assets/img/logos/musemio_logo.jpg
+      - image: assets/img/logos/musemio_logo_simple.jpg
         title: >+
           2021
           **VR-ML Research Project**
@@ -176,7 +176,8 @@ sections:
         [[Science Open Link]](https://doi.org/10.14236/ewic/EVA2020.0) '
         icon: fa-file-alt
       - title: '**Workshop Paper**'
-        text: 'Nicola Plant, Ruth Gibson, **Carlos Gonzalez Diaz**, Bruno Martelli, Michael Zbyszyński, Rebecca Fiebrink, Marco Gillies, Clarice Hilton, and Phoenix Perry. 2020. Movement interaction design for immersive media using interactive machine learning. In Proceedings of the 7th International Conference on Movement and Computing (MOCO20). Association for Computing Machinery, New York, NY, USA, Article 33, 1–2. [[[[ACM Digital Library]](https://doi.org/10.1145/3401956.3404252) '
+        text: 'Nicola Plant, Ruth Gibson, **Carlos Gonzalez Diaz**, Bruno Martelli, Michael Zbyszyński, Rebecca Fiebrink, Marco Gillies, Clarice Hilton, and Phoenix Perry. 2020. Movement interaction design for immersive media using interactive machine learning. In Proceedings of the 7th International Conference on Movement and Computing (MOCO20). Association for Computing Machinery, New York, NY, USA, Article 33, 1–2. 
+        [[ACM Digital Library]](https://doi.org/10.1145/3401956.3404252) '
         icon: fa-file-alt
       - title: '**Demo Paper**'
         text: ' **Gonzalez Diaz, C.**, Perry, P. and Fiebrink, R., 2019. Interactive Machine Learning for More Expressive Game Interactions. In: Proceedings of the IEEE Conference on Games. London, UK. 
