@@ -164,19 +164,19 @@ sections:
     title: Publications
     paragraphs:       
       - title: '**Conference Paper**'
-        text: 'Clarice Hilton, Nicola Plant, **Carlos González Díaz**, Phoenix Perry, Ruth Gibson, Bruno Martelli, Michael Zbyszynski, Rebecca Fiebrink, and Marco Gillies. 2021. InteractML: Making machine learning accessible for creative practitioners working with movement interaction in immersive media. In Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology (VRST '21). Association for Computing Machinery, New York, NY, USA, Article 23, 1–10. 
+        text: 'Clarice Hilton, Nicola Plant, **Carlos González Díaz**, Phoenix Perry, Ruth Gibson, Bruno Martelli, Michael Zbyszynski, Rebecca Fiebrink, and Marco Gillies. 2021. InteractML: Making machine learning accessible for creative practitioners working with movement interaction in immersive media. In Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology (VRST 21). Association for Computing Machinery, New York, NY, USA, Article 23, 1–10. 
         [[ACM Digital Library]](https://doi.org/10.1145/3489849.3489879) '
         icon: fa-file-alt
       - title: '**Workshop Paper**'
         text: '**Gonzalez Diaz, C.**, Plant, N., Hilton, C., Zbyszyński, M., Fiebrink, R., Perry, P., Gibson, R., Martelli, B., Deterding, S. and Gilles, M., 2021. Bodystorming in SocialVR to Support Collaborative Embodied Ideation. In: CHI 2021 Workshop on Social VR. New York, NY, USA: ACM, p.3. 
         [[PDF]](https://carlotes247.github.io/papers/Bodystorming_In_SocialVR_ShortPaper_2021) '
-        icon: fa-file-alt
+        icon: 
       - title: '**Workshop Paper**'
         text: 'Gibson, R, Plant, N, **Gonzalez Diaz, C**, Martelli, B, Zbyszyński, M, Fiebrink, R, Gillies, M, Hilton, C & Perry, P 2020, Using Machine Learning to Design Movement Interaction in Virtual Reality. in Electronic Visualisation & the Arts EVA London. BCS: The Chartered Institute for IT, Electronic Visualisation and the Arts, 6/07/20. 
         [[Science Open Link]](https://doi.org/10.14236/ewic/EVA2020.0) '
         icon: fa-file-alt
       - title: '**Workshop Paper**'
-        text: 'Nicola Plant, Ruth Gibson, **Carlos Gonzalez Diaz**, Bruno Martelli, Michael Zbyszyński, Rebecca Fiebrink, Marco Gillies, Clarice Hilton, and Phoenix Perry. 2020. Movement interaction design for immersive media using interactive machine learning. In Proceedings of the 7th International Conference on Movement and Computing (MOCO20). Association for Computing Machinery, New York, NY, USA, Article 33, 1–2. [[ACM Digital Library]](https://doi.org/10.1145/3401956.3404252) '
+        text: 'Nicola Plant, Ruth Gibson, **Carlos Gonzalez Diaz**, Bruno Martelli, Michael Zbyszyński, Rebecca Fiebrink, Marco Gillies, Clarice Hilton, and Phoenix Perry. 2020. Movement interaction design for immersive media using interactive machine learning. In Proceedings of the 7th International Conference on Movement and Computing (MOCO20). Association for Computing Machinery, New York, NY, USA, Article 33, 1–2. [[[[ACM Digital Library]](https://doi.org/10.1145/3401956.3404252) '
         icon: fa-file-alt
       - title: '**Demo Paper**'
         text: ' **Gonzalez Diaz, C.**, Perry, P. and Fiebrink, R., 2019. Interactive Machine Learning for More Expressive Game Interactions. In: Proceedings of the IEEE Conference on Games. London, UK. 
