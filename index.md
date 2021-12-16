@@ -27,7 +27,7 @@ sections:
     The institutions where I am being trained to succeed in my doctorate are the University of York, Goldsmiths - University of London and Queen Mary - University of London. 
     
     
-    I am supervised by [Prof. Sebastian Deterding](https://www.york.ac.uk/tfti/staff/research/sebastian-deterding/) and [Dr. Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/)."
+    I am supervised by [Prof. Sebastian Deterding](https://www.york.ac.uk/tfti/staff/research/sebastian-deterding/) and [Prof. Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/)."
     actions: 
       - title: Skills
         url: '#skills'
