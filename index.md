@@ -95,13 +95,13 @@ sections:
           **PhD in Intelligent Games and Games Intelligence (IGGI)**
         text: >-
             University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.             
-      - image: assets/img/logos/ms_logo_small.jpg
+      - image: assets/img/logos/ms_logo_small_simple.jpg
         title: >+
           2021
           **HCI Research Internship**
         text: >-
             Microsoft Research Cambridge. 4 Months. Unity 3D, Microsoft Mesh, C#. Cambridge (UK) 
-      - image: assets/img/logos/musemio_logo_simple.jpg
+      - image: assets/img/logos/musemio_logo.jpg
         title: >+
           2021
           **VR-ML Research Project**
