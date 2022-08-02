@@ -58,13 +58,13 @@ sections:
     title: Skills
     services:
       - title: Computer Science
-        text: 6+ years programming. C#, C++, Java, Python, C, JS, HTML5... and the curiosity to learn more!
+        text: 8+ years programming. C#, C++, Java, Python, C, JS, HTML5... and the curiosity to learn more!
         icon: fa-laptop-code text-info
       - title: HCI Research 
         text: Qualitative and Quantitative methods, HCI, User Experience, Interaction Analysis
         icon: fa-user-graduate
       - title: Immersive Tech
-        text: 3+ years experience on XR SDKs and APIs. Oculus, Steam, PSVR, Vuforia.
+        text: 5+ years experience on XR SDKs and APIs. Oculus, Steam, PSVR, Vuforia.
         icon: fa-vr-cardboard text-info
       - title: Machine Learning
         text: Theoretical and Practical. Interactive Machine Learning (C++/C#), TensorFlow (C#/Python)
@@ -94,23 +94,23 @@ sections:
           2022
           **PhD in Intelligent Games and Games Intelligence (IGGI)**
         text: >-
-            University of York. 5 years. Interactive Machine Learning for Designing Movement Interactions in VR Games.             
+            University of York. 5 years. Interactive Machine Learning for VR Motion Gameplay Creation.             
       - image: assets/img/logos/ms_logo_small_simple.jpg
         title: >+
           2021
-          **HCI Research Internship**
+          **Doctoral Researcher (Telepresence)**
         text: >-
             Microsoft Research Cambridge. 4 Months. Unity 3D, Microsoft Mesh, C#. Cambridge (UK) 
       - image: assets/img/logos/musemio_logo.jpg
         title: >+
           2021
-          **VR-ML Research Project**
+          **ML Researcher / Lead Tool Architect**
         text: >-
             Musemio Limited. 4 Months. Unity 3D, C#, C++, Machine Learning. London (UK) 
       - image: assets/img/logos/GS_UoL.png
         title: >+
           2019
-          **ML for Game Engines Project**
+          **Doctoral Researcher (ML for game engines)**
         text: >-
             Google Artists + Machine Intelligence (AMI) project at Goldsmiths, University of London. 4 Months. Unity 3D, C#, C++, Interactive Machine Learning. London (UK). 
       - image: assets/img/logos/unity.png
@@ -163,6 +163,10 @@ sections:
     text_style: text-body
     title: Publications
     paragraphs:       
+      - title: '**Conference Paper**'
+        text: '**Carlos Gonzalez Diaz**, John Tang, Advait Sarkar, and Sean Rintel. 2022. Making Space for Social Time: Supporting Conversational Transitions Before, During, and After Video Meetings. In 2022 Symposium on Human-Computer Interaction for Work (CHIWORK 2022). Association for Computing Machinery, New York, NY, USA, Article 4, 1–11.
+        [[ACM Digital Library]](https://doi.org/10.1145/3533406.3533417) '
+        icon: fa-file-alt 
       - title: '**Conference Paper**'
         text: 'Clarice Hilton, Nicola Plant, **Carlos González Díaz**, Phoenix Perry, Ruth Gibson, Bruno Martelli, Michael Zbyszynski, Rebecca Fiebrink, and Marco Gillies. 2021. InteractML: Making machine learning accessible for creative practitioners working with movement interaction in immersive media. In Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology (VRST 21). Association for Computing Machinery, New York, NY, USA, Article 23, 1–10. 
         [[ACM Digital Library]](https://doi.org/10.1145/3489849.3489879) '
@@ -273,6 +277,12 @@ sections:
     title_style: text-white light
     title: Awards
     services:
+      - title: Rabin Ezra Research Scholarship Award
+        text:  2022. ML for interactive VR motion gameplay creation. London, UK.
+        icon: fa-award text-light
+        title_style: text-white
+        text_style: text-white-50
+        url: https://xr4all.eu/results-phase1-2nd-open-call/  
       - title: XR4ALL EU Horizon 2020 Grant Award
         text:  2020 - 2021. ML to predict user learning in VR. London, UK.
         icon: fa-file-invoice-dollar text-light
