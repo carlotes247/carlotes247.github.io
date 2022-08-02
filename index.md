@@ -79,7 +79,7 @@ sections:
         text: Data Structures, Algorithms, Version Control... I even made my own visual scripting language!
         icon: fa-code-branch text-info
       - title: Public Speaking
-        text: Speaker at different industry and academic conferences. Some of the venues include IEEE CoG, ACM MOCO, NordiCHI, Develop or Games Week Berlin.
+        text: Speaker at different industry and academic conferences. Some of the venues include ACM CHI, IEEE CoG, ACM MOCO, NordiCHI, Develop or Games Week Berlin.
         icon: fa-chalkboard-teacher
 
   # Timeline
