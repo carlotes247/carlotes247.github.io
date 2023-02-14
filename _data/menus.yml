@@ -9,10 +9,10 @@ header:
   url: /#skills
 - title: Experience
   url: /#experience
-- title: Publications
-  url: /#publications
 - title: Projects
   url: /#portfolio
+- title: Publications
+  url: /#publications
 - title: Presentations
   url: /#presentations
 - title: Awards
