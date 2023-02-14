@@ -397,15 +397,19 @@ sections:
     #text_style: text-light
     title: Let's Get In Touch!
     text: >-
-      Ready to start a conversation into how I might help you? I am currently open for contracting work and internships!
+      Ready to start a conversation into how I might help you? I am currently open for contracting, freelance or consulting!
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:cgd506@york.ac.uk
+      url: mailto:carlos.gonzalezdiaz@york.ac.uk
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
       url: http://www.twitter.com/carlotes247
+    - title: Mastodon
+      icon: fa-mastodon
+      icon_type: fab
+      url: https://masto.ai/@carlotes247
     - title: Linkedin
       icon: fa-linkedin
       icon_type: fab
