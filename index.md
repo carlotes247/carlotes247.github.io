@@ -253,7 +253,7 @@ sections:
         url: '#'  
       - title: C++ Modern Art Generator
         text: Little project in C++ where everything is procedurally generated using OpenFrameworks, emulating the style of paintings by Kandinsky.
-        icon: kandisnky.png
+        icon: kandinsky.png
         url: '#' 
       - title: QT Labs
         text: VR game focused on adorable little microbes floating around you. You have a pistol that shoots fire and another one that shoots iced water, and a number of sugar cubes. The pistol is used to change the colour of the microbes, but heating them up too much results in them going into heat and reproducing. C#, VRTK 
@@ -269,11 +269,11 @@ sections:
         url: '#' 
       - title: Merienda VR
         text: A VR Feeding Experience. HTC Vive, Virtual Reality Toolkit (VRTK), C#
-        icon: meriendaVR.jpg
+        icon: meriendaVR.png
         url: '#' 
       - title: Wavelength
         text: Best Art&Audio Award. Best concept 2nd place GGJ 2017. Cross-Platform Game. PC, Google Cardboard, WebGL. Unity 3D, Photon Networking. C#
-        icon: wavelength
+        icon: wavelength.png
         url: '#' 
       - title: This-Order
         text: This-Order is a serious game about a person who has Obsessive Compulsive Disorder (OCD). The person needs everything in the room to be perfect before the person is finally be able to go out of the house. PC. GGJ 2016
@@ -281,7 +281,7 @@ sections:
         url: '#' 
       - title: KLUB
         text: Transmedia Game. MSc Thesis Digital Narration. Game and Cultural Heritage. Unity 3D. PC, WebGL, Android, iOS.
-        icon: klub.jpg
+        icon: klub.png
         url: '#' 
       - title: Travel
         text: In Travel, you start out as a star lost in space, with no real instructions as to what to do and what the game is about. So you start exploring... Loosely inspired by Le Petit Prince. The Windows build supports Wiimote input. Unity 3D. PC, C++ library for wiimote integration
