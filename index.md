@@ -61,7 +61,7 @@ sections:
     title: Skills
     services:
       - title: Computer Science
-        text: 11+ years programming. C#, C++/C, Java, Python, JS, HTML5... and the curiosity to learn more!
+        text: 11+ years programming game technology with C#/C++, frontends with JS and backends with Java. C#, C++/C, Java, Python, JS, HTML5... and the curiosity to learn more!
         icon: fa-laptop-code text-info
       - title: HCI Research 
         text: Qualitative and Quantitative methods, HCI, User Experience, Interaction Analysis
