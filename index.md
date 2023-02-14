@@ -7,7 +7,7 @@ layout: home
 header:
   title: Carlos Gonzalez Diaz
   text: >
-    Playful Interactive AI and ML for Immersive Technologies. 
+    Software Engineering and Playful Interactive AI and ML for Immersive Technologies. 
   action: # action button is optional
     label: More About Me
     url: '#about'
@@ -20,7 +20,8 @@ sections:
     title: "**Intelligent Games and Games Intelligence (IGGI) PhD**"
     text: "I am a Software Engineer and a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. 
     
-    My current software engineering projects revolve around game technology systems for Unity and Unreal Engine, involving (1) gameplay programming, (2) networking, and (3) ML inference through supervised and reinforcement learning.
+
+    My current software engineering projects revolve around game technology systems for Unity and Unreal Engine, involving ***(1) gameplay programming, (2) networking, and (3) ML inference through supervised and reinforcement learning.***
   
 
     My current research interests are ***(1) Interactive use of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience.***   
