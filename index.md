@@ -38,11 +38,11 @@ sections:
       - title: Experience
         url: '#experience'
         class: btn-light ml-2 mb-2
-      - title: Publications
-        url: '#publications'
-        class: btn-light ml-2 mb-2
       - title: Projects
         url: '#portfolio'
+        class: btn-light ml-2 mb-2
+      - title: Publications
+        url: '#publications'
         class: btn-light ml-2 mb-2
       - title: Presentations
         url: '#presentations'
@@ -165,54 +165,6 @@ sections:
         text: >-
           Rey Juan Carlos University, Specialization: Game Technologies. Madrid (Spain) 
   
-  # Publications       
-  - type: paragraph.html
-    section_id: publications
-    background_style: bg-light
-    text_style: text-body
-    title: Publications
-    paragraphs:       
-      - title: '**Conference Paper**'
-        text: '**Carlos Gonzalez Diaz**, John Tang, Advait Sarkar, and Sean Rintel. 2022. Making Space for Social Time: Supporting Conversational Transitions Before, During, and After Video Meetings. In 2022 Symposium on Human-Computer Interaction for Work (CHIWORK 2022). Association for Computing Machinery, New York, NY, USA, Article 4, 1–11.
-        [[ACM Digital Library]](https://doi.org/10.1145/3533406.3533417) '
-        icon: fa-file-alt 
-      - title: '**Conference Paper**'
-        text: 'Clarice Hilton, Nicola Plant, **Carlos González Díaz**, Phoenix Perry, Ruth Gibson, Bruno Martelli, Michael Zbyszynski, Rebecca Fiebrink, and Marco Gillies. 2021. InteractML: Making machine learning accessible for creative practitioners working with movement interaction in immersive media. In Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology (VRST 21). Association for Computing Machinery, New York, NY, USA, Article 23, 1–10. 
-        [[ACM Digital Library]](https://doi.org/10.1145/3489849.3489879) '
-        icon: fa-file-alt
-      - title: '**Workshop Paper**'
-        text: '**Gonzalez Diaz, C.**, Plant, N., Hilton, C., Zbyszyński, M., Fiebrink, R., Perry, P., Gibson, R., Martelli, B., Deterding, S. and Gilles, M., 2021. Bodystorming in SocialVR to Support Collaborative Embodied Ideation. In: CHI 2021 Workshop on Social VR. New York, NY, USA: ACM, p.3. 
-        [[PDF]](https://carlotes247.github.io/papers/Bodystorming_In_SocialVR_ShortPaper_2021.pdf) '
-        icon: fa-file-alt
-      - title: '**Workshop Paper**'
-        text: 'Gibson, R, Plant, N, **Gonzalez Diaz, C**, Martelli, B, Zbyszyński, M, Fiebrink, R, Gillies, M, Hilton, C & Perry, P 2020, Using Machine Learning to Design Movement Interaction in Virtual Reality. in Electronic Visualisation & the Arts EVA London. BCS: The Chartered Institute for IT, Electronic Visualisation and the Arts, 6/07/20. 
-        [[Science Open Link]](https://doi.org/10.14236/ewic/EVA2020.0) '
-        icon: fa-file-alt
-      - title: '**Workshop Paper**'
-        text: 'Nicola Plant, Ruth Gibson, **Carlos Gonzalez Diaz**, Bruno Martelli, Michael Zbyszyński, Rebecca Fiebrink, Marco Gillies, Clarice Hilton, and Phoenix Perry. 2020. Movement interaction design for immersive media using interactive machine learning. In Proceedings of the 7th International Conference on Movement and Computing (MOCO20). Association for Computing Machinery, New York, NY, USA, Article 33, 1–2. 
-        [[ACM Digital Library]](https://doi.org/10.1145/3401956.3404252) '
-        icon: fa-file-alt
-      - title: '**Demo Paper**'
-        text: ' **Gonzalez Diaz, C.**, Perry, P. and Fiebrink, R., 2019. Interactive Machine Learning for More Expressive Game Interactions. In: Proceedings of the IEEE Conference on Games. London, UK. 
-        [[PDF]](http://ieee-cog.org/2019/papers/paper_256.pdf) [[Conference Website]](http://ieee-cog.org/2019/proceedings/) '
-        icon: fa-file-alt
-      - title: '**Conference Paper**'
-        text: 'Gaina, R., Volkovas, R., **Gonzalez Diaz, C.** and Davidson, R., 2017. Automatic Game Tuning for Strategic Diversity. In: 2017 9th Computer Science and Electronic Engineering (CEEC). Colchester, UK: IEEE. 
-        [[Publisher Page (IEEE Xplore)]](https://ieeexplore.ieee.org/abstract/document/8101624)'
-        icon: fa-file-alt
-      - title: '**Doctoral Consortium Paper** '
-        text: '**Gonzalez Diaz, C.**, 2017. The Effect of Control-Display Ratio in Handheld Motion Controllers on Player Immersion: A Pilot Study. In: Proceedings of the 4th International Conference on Movement Computing (MOCO ’17). New York, NY, USA: Association for Computing Machinery. 
-        [[PDF]](http://moco17.movementcomputing.org/index.php/doctoral-symposium-proceedings/) [[Conference Website]](http://moco17.movementcomputing.org/index.php/doctoral-symposium-proceedings/)'
-        icon: fa-file-alt
-      - title: '**Book Chapter**' 
-        text: 'Kristensen, L., Mazierska, E., Kirkpatrick, G., Holloway-Attaway, L., Brusk, J., Oldrell, T., Essvik, O., Fallon, B., Homewood, R.J., Tapper, M., Ryding, K., Borén, O., Bjarnehed, M., Idun, J., Fridén, K., Sörensen, J., Stennabb, B., Farhanieh, I., **Gonzalez Diaz, C.** and Helmisaari, M., 2016. Art and Game Obstruction. 1st ed. [online] Gothenburg: Rojal Förlag. 
-        [[PDF (pg. 151 for my chapter)]](http://his.diva-portal.org/smash/get/diva2:1068196/FULLTEXT01.pdf) [[Publisher Page (University of Skövde)]](http://urn.kb.se/resolve?urn=urn:nbn:se:his:diva-13335)'
-        icon: fa-book
-      - title: '**MSc Thesis**' 
-        text: '**Gonzalez Diaz, C.**, 2015. ATTITUDE GAME: A study in the increase of bullying awareness in 9-12 years old children. [online] University of Skövde. 
-        [[PDF]](http://www.diva-portal.org/smash/get/diva2:855618/FULLTEXT01.pdf) [[Publisher Page (University of Skövde)]](http://www.diva-portal.org/smash/record.jsf?pid=diva2:855618)'
-        icon: fa-scroll
-  
   # Portfolio
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -296,7 +248,55 @@ sections:
         icon: braveness.png
         url: '#' 
 
-      
+
+# Publications       
+  - type: paragraph.html
+    section_id: publications
+    background_style: bg-light
+    text_style: text-body
+    title: Publications
+    paragraphs:       
+      - title: '**Conference Paper**'
+        text: '**Carlos Gonzalez Diaz**, John Tang, Advait Sarkar, and Sean Rintel. 2022. Making Space for Social Time: Supporting Conversational Transitions Before, During, and After Video Meetings. In 2022 Symposium on Human-Computer Interaction for Work (CHIWORK 2022). Association for Computing Machinery, New York, NY, USA, Article 4, 1–11.
+        [[ACM Digital Library]](https://doi.org/10.1145/3533406.3533417) '
+        icon: fa-file-alt 
+      - title: '**Conference Paper**'
+        text: 'Clarice Hilton, Nicola Plant, **Carlos González Díaz**, Phoenix Perry, Ruth Gibson, Bruno Martelli, Michael Zbyszynski, Rebecca Fiebrink, and Marco Gillies. 2021. InteractML: Making machine learning accessible for creative practitioners working with movement interaction in immersive media. In Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology (VRST 21). Association for Computing Machinery, New York, NY, USA, Article 23, 1–10. 
+        [[ACM Digital Library]](https://doi.org/10.1145/3489849.3489879) '
+        icon: fa-file-alt
+      - title: '**Workshop Paper**'
+        text: '**Gonzalez Diaz, C.**, Plant, N., Hilton, C., Zbyszyński, M., Fiebrink, R., Perry, P., Gibson, R., Martelli, B., Deterding, S. and Gilles, M., 2021. Bodystorming in SocialVR to Support Collaborative Embodied Ideation. In: CHI 2021 Workshop on Social VR. New York, NY, USA: ACM, p.3. 
+        [[PDF]](https://carlotes247.github.io/papers/Bodystorming_In_SocialVR_ShortPaper_2021.pdf) '
+        icon: fa-file-alt
+      - title: '**Workshop Paper**'
+        text: 'Gibson, R, Plant, N, **Gonzalez Diaz, C**, Martelli, B, Zbyszyński, M, Fiebrink, R, Gillies, M, Hilton, C & Perry, P 2020, Using Machine Learning to Design Movement Interaction in Virtual Reality. in Electronic Visualisation & the Arts EVA London. BCS: The Chartered Institute for IT, Electronic Visualisation and the Arts, 6/07/20. 
+        [[Science Open Link]](https://doi.org/10.14236/ewic/EVA2020.0) '
+        icon: fa-file-alt
+      - title: '**Workshop Paper**'
+        text: 'Nicola Plant, Ruth Gibson, **Carlos Gonzalez Diaz**, Bruno Martelli, Michael Zbyszyński, Rebecca Fiebrink, Marco Gillies, Clarice Hilton, and Phoenix Perry. 2020. Movement interaction design for immersive media using interactive machine learning. In Proceedings of the 7th International Conference on Movement and Computing (MOCO20). Association for Computing Machinery, New York, NY, USA, Article 33, 1–2. 
+        [[ACM Digital Library]](https://doi.org/10.1145/3401956.3404252) '
+        icon: fa-file-alt
+      - title: '**Demo Paper**'
+        text: ' **Gonzalez Diaz, C.**, Perry, P. and Fiebrink, R., 2019. Interactive Machine Learning for More Expressive Game Interactions. In: Proceedings of the IEEE Conference on Games. London, UK. 
+        [[PDF]](http://ieee-cog.org/2019/papers/paper_256.pdf) [[Conference Website]](http://ieee-cog.org/2019/proceedings/) '
+        icon: fa-file-alt
+      - title: '**Conference Paper**'
+        text: 'Gaina, R., Volkovas, R., **Gonzalez Diaz, C.** and Davidson, R., 2017. Automatic Game Tuning for Strategic Diversity. In: 2017 9th Computer Science and Electronic Engineering (CEEC). Colchester, UK: IEEE. 
+        [[Publisher Page (IEEE Xplore)]](https://ieeexplore.ieee.org/abstract/document/8101624)'
+        icon: fa-file-alt
+      - title: '**Doctoral Consortium Paper** '
+        text: '**Gonzalez Diaz, C.**, 2017. The Effect of Control-Display Ratio in Handheld Motion Controllers on Player Immersion: A Pilot Study. In: Proceedings of the 4th International Conference on Movement Computing (MOCO ’17). New York, NY, USA: Association for Computing Machinery. 
+        [[PDF]](http://moco17.movementcomputing.org/index.php/doctoral-symposium-proceedings/) [[Conference Website]](http://moco17.movementcomputing.org/index.php/doctoral-symposium-proceedings/)'
+        icon: fa-file-alt
+      - title: '**Book Chapter**' 
+        text: 'Kristensen, L., Mazierska, E., Kirkpatrick, G., Holloway-Attaway, L., Brusk, J., Oldrell, T., Essvik, O., Fallon, B., Homewood, R.J., Tapper, M., Ryding, K., Borén, O., Bjarnehed, M., Idun, J., Fridén, K., Sörensen, J., Stennabb, B., Farhanieh, I., **Gonzalez Diaz, C.** and Helmisaari, M., 2016. Art and Game Obstruction. 1st ed. [online] Gothenburg: Rojal Förlag. 
+        [[PDF (pg. 151 for my chapter)]](http://his.diva-portal.org/smash/get/diva2:1068196/FULLTEXT01.pdf) [[Publisher Page (University of Skövde)]](http://urn.kb.se/resolve?urn=urn:nbn:se:his:diva-13335)'
+        icon: fa-book
+      - title: '**MSc Thesis**' 
+        text: '**Gonzalez Diaz, C.**, 2015. ATTITUDE GAME: A study in the increase of bullying awareness in 9-12 years old children. [online] University of Skövde. 
+        [[PDF]](http://www.diva-portal.org/smash/get/diva2:855618/FULLTEXT01.pdf) [[Publisher Page (University of Skövde)]](http://www.diva-portal.org/smash/record.jsf?pid=diva2:855618)'
+        icon: fa-scroll
+
 
   # Presentations
   - type: presentations.html
