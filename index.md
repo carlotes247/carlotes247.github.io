@@ -18,7 +18,9 @@ sections:
     section_id: about
     background_style: bg-primary
     title: "**Intelligent Games and Games Intelligence (IGGI) PhD**"
-    text: "I am a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. 
+    text: "I am a Software Engineer and a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. 
+    
+    My current software engineering projects revolve around game technology systems for Unity and Unreal Engine, involving (1) gameplay programming, (2) networking, and (3) ML inference through supervised and reinforcement learning.
   
 
     My current research interests are ***(1) Interactive use of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience.***   
@@ -58,22 +60,22 @@ sections:
     title: Skills
     services:
       - title: Computer Science
-        text: 8+ years programming. C#, C++, Java, Python, C, JS, HTML5... and the curiosity to learn more!
+        text: 11+ years programming. C#, C++/C, Java, Python, JS, HTML5... and the curiosity to learn more!
         icon: fa-laptop-code text-info
       - title: HCI Research 
         text: Qualitative and Quantitative methods, HCI, User Experience, Interaction Analysis
         icon: fa-user-graduate
       - title: Immersive Tech
-        text: 5+ years experience on XR SDKs and APIs. Oculus, Steam, PSVR, Vuforia.
+        text: 7+ years experience on XR SDKs and APIs. Meta Quest, Steam, PSVR, ARToolkit/Vuforia
         icon: fa-vr-cardboard text-info
       - title: Machine Learning
-        text: Theoretical and Practical. Interactive Machine Learning (C++/C#), TensorFlow (C#/Python)
+        text: Theoretical and Practical. Interactive Machine Learning with low-level inference libraries (C++/C#), TensorFlow (C#/Python)
         icon: fa-brain
       - title: Games R&D
-        text: Passion for games and games tech. PhD in IML for VR Games. Unity, UE, Custom Engines.
+        text: Passion for games and games tech. PhD in ML for VR Games. Unity, Unreal Engine, Custom Engines.
         icon: fa-gamepad text-info
       - title: Team Player
-        text: Enjoys working closely with others and can also work independently.
+        text: Enjoys working closely with others and can also work independently. Previous experience consulting and contracting solo or as part of a team
         icon: fa-users
       - title: SW Engineering
         text: Data Structures, Algorithms, Version Control... I even made my own visual scripting language!
@@ -95,6 +97,12 @@ sections:
           **PhD in Intelligent Games and Games Intelligence (IGGI)**
         text: >-
             University of York. 6 years. Interactive Machine Learning for VR Motion Gameplay Creation.             
+      - image: assets/img/logos/uem.png
+        title: >+
+          2023
+          **Course Authorship at Masters level in Gameplay Programming**
+        text: >-
+            European University of Madrid. Unreal Engine (Spain) 
       - image: assets/img/logos/ms_logo_small_simple.jpg
         title: >+
           2021
