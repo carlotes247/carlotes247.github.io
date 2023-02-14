@@ -101,7 +101,7 @@ sections:
       - image: assets/img/logos/uem.png
         title: >+
           2023
-          **Course Authorship at Masters level in Gameplay Programming**
+          **Course Authorship at Masters level in Unreal Engine Programming**
         text: >-
             European University of Madrid. Unreal Engine (Spain) 
       - image: assets/img/logos/ms_logo_small_simple.jpg
