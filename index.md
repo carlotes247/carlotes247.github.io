@@ -91,10 +91,10 @@ sections:
     actions:      
       - image: assets/img/logos/UoYork.jpg
         title: >+
-          2022
+          2023
           **PhD in Intelligent Games and Games Intelligence (IGGI)**
         text: >-
-            University of York. 5 years. Interactive Machine Learning for VR Motion Gameplay Creation.             
+            University of York. 6 years. Interactive Machine Learning for VR Motion Gameplay Creation.             
       - image: assets/img/logos/ms_logo_small_simple.jpg
         title: >+
           2021
@@ -212,29 +212,29 @@ sections:
     title: Projects
     projects:
       - title: InteractML
-        text: Interactive Machine Learning Visual Scripting for Unity
+        text: Interactive Machine Learning Visual Scripting Toolkit for Unity
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: http://interactml.com/
-      - title: Attitude MSc Research Project
+      - title: Attitude MSc iOS Research Project
         text: MSc Investigation on How an iOS Game can Affect Attitudes towards Bullying in Children
         icon: 2.jpg
         url: '#skills'
-      - title: BSc Firearm Simulator
+      - title: BSc Windows Firearm Simulator
         text: Virtual Firearm Simulator built in Unity3D and Connected to Custom Replica
         icon: 3.jpg
         url: '#about'
-      - title: BSc Firearm Replica
+      - title: BSc Arduino Firearm Replica
         text: Modified Physical Replica of Firearm. Arduino, Wii remote, Unity3D
         icon: 4.jpg
         url: '#'
-      - title: PhD Research Prototype 1
+      - title: PhD PSMove Research Prototype 1
         text: Motion Controlled Research Prototype for Study on Immersion
         icon: 5.jpg
         url: '#'
-      - title: PhD Research Prototype 2
+      - title: PhD Leap Motion Research Prototype 2
         text: Hand-tracked Research Prototype using Machine Learning for Motion Recognition
         icon: 6.jpg
         url: '#'     
