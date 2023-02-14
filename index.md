@@ -221,32 +221,82 @@ sections:
     title: Projects
     projects:
       - title: InteractML
-        text: Interactive Machine Learning Visual Scripting Toolkit for Unity
+        text: Interactive Machine Learning Visual Scripting Toolkit for Unity. C# Editor, C++ ML inference with Rapidlib, interops
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: http://interactml.com/
       - title: Attitude MSc iOS Research Project
-        text: MSc Investigation on How an iOS Game can Affect Attitudes towards Bullying in Children
+        text: MSc Investigation on How an iOS Game can Affect Attitudes towards Bullying in Children. C# iOS
         icon: 2.jpg
         url: '#skills'
       - title: BSc Windows Firearm Simulator
-        text: Virtual Firearm Simulator built in Unity3D and Connected to Custom Replica
+        text: Virtual Firearm Simulator built in Unity3D and Connected to Custom Replica. C# Windows
         icon: 3.jpg
         url: '#about'
       - title: BSc Arduino Firearm Replica
-        text: Modified Physical Replica of Firearm. Arduino, Wii remote, Unity3D
+        text: Modified Physical Replica of Firearm. Arduino, Wii remote, Unity3D 
         icon: 4.jpg
         url: '#'
       - title: PhD PSMove Research Prototype 1
-        text: Motion Controlled Research Prototype for Study on Immersion
+        text: Motion Controlled Research Prototype for Study on Immersion. C#, C++ PSMovelib library, interops
         icon: 5.jpg
         url: '#'
       - title: PhD Leap Motion Research Prototype 2
-        text: Hand-tracked Research Prototype using Machine Learning for Motion Recognition
+        text: Hand-tracked Research Prototype using Machine Learning for Motion Recognition. C#, Leap Motion, Wekinator (Java)
         icon: 6.jpg
         url: '#'     
+      - title: The Pit 
+        text: Ludum Dare 48 entry. Online 4 player Multiplayer. Photon Networking. Procedural voxel world generation. C#
+        icon: thepit.png
+        url: '#'  
+      - title: C++ Modern Art Generator
+        text: Little project in C++ where everything is procedurally generated using OpenFrameworks, emulating the style of paintings by Kandinsky.
+        icon: kandisnky.png
+        url: '#' 
+      - title: QT Labs
+        text: VR game focused on adorable little microbes floating around you. You have a pistol that shoots fire and another one that shoots iced water, and a number of sugar cubes. The pistol is used to change the colour of the microbes, but heating them up too much results in them going into heat and reproducing. C#, VRTK 
+        icon: qtlabs.png
+        url: '#' 
+      - title: The Empire of Evil
+        text: Lowrezjam 2017 entry. On-rails pixel shooter. Custom Motion Control Framework in C#.
+        icon: empireofevil.jpg
+        url: '#' 
+      - title: Filiam Dei
+        text: Jamchester 2017 Best Audio Design Winner. Asymmetric Cooperative 3D Puzzle Platformer in which a God helps free their daughter. PlayStation Move Controllers. PC. Custom Motion Control Framework in C# with C++ interops
+        icon: filiamdei.png
+        url: '#' 
+      - title: Merienda VR
+        text: A VR Feeding Experience. HTC Vive, Virtual Reality Toolkit (VRTK), C#
+        icon: meriendaVR.jpg
+        url: '#' 
+      - title: Wavelength
+        text: Best Art&Audio Award. Best concept 2nd place GGJ 2017. Cross-Platform Game. PC, Google Cardboard, WebGL. Unity 3D, Photon Networking. C#
+        icon: wavelength
+        url: '#' 
+      - title: This-Order
+        text: This-Order is a serious game about a person who has Obsessive Compulsive Disorder (OCD). The person needs everything in the room to be perfect before the person is finally be able to go out of the house. PC. GGJ 2016
+        icon: thisorder.png
+        url: '#' 
+      - title: KLUB
+        text: Transmedia Game. MSc Thesis Digital Narration. Game and Cultural Heritage. Unity 3D. PC, WebGL, Android, iOS.
+        icon: klub.jpg
+        url: '#' 
+      - title: Travel
+        text: In Travel, you start out as a star lost in space, with no real instructions as to what to do and what the game is about. So you start exploring... Loosely inspired by Le Petit Prince. The Windows build supports Wiimote input. Unity 3D. PC, C++ library for wiimote integration
+        icon: travel.png
+        url: '#' 
+      - title: Between
+        text: Between is a short and physically interactive digital game, played on the Playstation Move. The narrative wields the myth of reincarnation as an expression of consciousness experiencing itself. Unity 3D, PlayStation Move Controller. PC, C++ library for psmove integration
+        icon: between.jpg
+        url: '#' 
+      - title: Braveness&Cowardice
+        text: Braveness/Cowardice is a 2D lateral scroll game in which the player controlls the mood of the main character, braveness and cowardice. The Brave world is iluminated but the Coward world is in darkness and reversed. Unity 3D
+        icon: braveness.png
+        url: '#' 
+
+      
 
   # Presentations
   - type: presentations.html
