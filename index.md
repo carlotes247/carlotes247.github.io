@@ -18,7 +18,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: "**Machine Learning, Affective and Intelligent Interactive Media**"
-    text: "I am an AI Researcher and a Software Engineer and at the renowed Human-Centred Artificial Intelligence Chair at the University of Augsburg in Bavaria, Germany. In here, I am working on solving multi-user affective scenarios in VR via supervised and reinforcement learning. I am lucky to be supervised by with German AI personality [Prof. Dr. Elisabeth André](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/hcm/team/andre/)
+    text: "I am an AI Researcher and a Software Engineer and at the renowed Human-Centred Artificial Intelligence Chair at the University of Augsburg in Bavaria, Germany. In here, I am working on solving multi-user affective scenarios in VR via supervised and reinforcement learning. I work under German AI personality [Prof. Dr. Elisabeth André](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/hcm/team/andre/)
 
     My current software engineering projects revolve around real-time interactive technology for game engines, involving ***(1) ML inference through supervised and reinforcement learning, (2) networking, and (3) gameplay programming.***  
 
@@ -310,17 +310,17 @@ sections:
     presentations:
       - title: Interactive Machine Learning for Expressive VR Game Interactions 
         text: Presentation for the yearly conference of my PhD
-        icon: 4.jpg
+        icon: white.jpg
         url: '#'
         vid: 'iggi-video'    
       - title: Understanding Natural Controls in Virtual Reality Games
         text: Presented at the Doctoral Symposium of the MOCO17 Conference, this talks briefly introduces the research during my first year of doctoral studies at the Univeristy of York.
-        icon: 2.jpg
+        icon: white.jpg
         url: '#skills'
         vid: 'moco-video'
       - title: Game Dev London VR Presentation
         text: Introducing InteractML, a ML visual scripting framework for Unity        
-        icon: gamedevlondon.jpg
+        icon: white.jpg
         url: http://interactml.com/
         vid: 'gdl-video'
       ##- title: Procedural Content Generation Summer School 2019
