@@ -20,9 +20,12 @@ sections:
     title: "**Machine Learning, Affective and Intelligent Interactive Media**"
     text: "I am an AI Researcher and a Software Engineer and at the renowed Human-Centred Artificial Intelligence Chair at the University of Augsburg in Bavaria, Germany. In here, I am working on solving multi-user affective scenarios in VR via supervised and reinforcement learning. I work under German AI personality [Prof. Dr. Elisabeth André](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/hcm/team/andre/)
 
+
     My current software engineering projects revolve around real-time interactive technology for game engines, involving ***(1) ML inference through supervised and reinforcement learning, (2) networking, and (3) gameplay programming.***  
 
+
     My current research interests are ***(1) Interactive uses of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience.***       
+
 
     I did my doctorate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. In there, I worked in three different institutions: the University of York, Goldsmiths - University of London and Queen Mary - University of London. My PhD was supervised by [Prof. Sebastian Deterding](https://www.york.ac.uk/tfti/staff/research/sebastian-deterding/) and [Prof. Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/)."
     actions: 
