@@ -313,8 +313,23 @@ sections:
         icon: white.jpg
         url: '#'
         vid: 'iggi-video'    
+      - title: CLAIRE Rising Researchers Network Lightning Talks
+        text: Presented at the Rising Researchers Network, giving an overview of my PhD research
+        icon: white.jpg
+        url: '#skills'
+        vid: 'claire-video'
+      - title: Talk and Develop:Brighton Conference
+        text: Presented at leading UK games conference Develop:Brighton, introducing InteractML
+        icon: white.jpg
+        url: '#skills'
+        vid: 'develop-video'
+      - title: Procedural Content Generation Summer School 2019
+        text: Small proyect attempting to combine procedural content generation of geometry together with a supervised learning algorithm trained on input data.
+        icon: white.jpg
+        url: '#about'
+        vid: 'pcg-video' 
       - title: Understanding Natural Controls in Virtual Reality Games
-        text: Presented at the Doctoral Symposium of the MOCO17 Conference, this talks briefly introduces the research during my first year of doctoral studies at the Univeristy of York.
+        text: Presented at the Doctoral Symposium of the MOCO17 Conference, this talk briefly introduces the research during my first year of doctoral studies at the Univeristy of York.
         icon: white.jpg
         url: '#skills'
         vid: 'moco-video'
@@ -323,11 +338,6 @@ sections:
         icon: white.jpg
         url: http://interactml.com/
         vid: 'gdl-video'
-      ##- title: Procedural Content Generation Summer School 2019
-        ##text: Small proyect attempting to combine procedural content generation of geometry together with a supervised learning algorithm trained on input data.
-        ##icon: 3.jpg
-        ##url: '#about'
-        ##vid: 'pcg-video' 
 
   # Awards
   - type: services.html
