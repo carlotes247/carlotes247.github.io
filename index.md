@@ -18,18 +18,13 @@ sections:
     section_id: about
     background_style: bg-primary
     title: "**Machine Learning, Affective and Intelligent Interactive Media**"
-    text: "I am an AI Researcher and a Software Engineer and at the renowed Human-Centred Artificial Intelligence Chair at the University of Augsburg in Bavaria, Germany. In here, I am working with German AI personality [Prof. Dr. Elisabeth André](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/hcm/team/andre/), on solving multi-user affective scenarios in VR via supervised and reinforcement learning. 
-    
-    , working under Prof. Dr. El PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. 
-    
+    text: "I am an AI Researcher and a Software Engineer and at the renowed Human-Centred Artificial Intelligence Chair at the University of Augsburg in Bavaria, Germany. In here, I am working on solving multi-user affective scenarios in VR via supervised and reinforcement learning. I am lucky to be supervised by with German AI personality [Prof. Dr. Elisabeth André](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/hcm/team/andre/)
 
-    My current software engineering projects revolve around real-time interactive technology for game engines, involving ***(1) ML inference through supervised and reinforcement learning, (2) networking, and (3) gameplay programming.***
-  
+    My current software engineering projects revolve around real-time interactive technology for game engines, involving ***(1) ML inference through supervised and reinforcement learning, (2) networking, and (3) gameplay programming.***  
 
-    My current research interests are ***(1) Interactive uses of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience.***   
-    
+    My current research interests are ***(1) Interactive uses of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience.***       
 
-    I did my doctorate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. In there, I worked in three different institutions: the University of York, Goldsmiths - University of London and Queen Mary - University of London.My PhD was supervised by [Prof. Sebastian Deterding](https://www.york.ac.uk/tfti/staff/research/sebastian-deterding/) and [Prof. Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/)."
+    I did my doctorate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. In there, I worked in three different institutions: the University of York, Goldsmiths - University of London and Queen Mary - University of London. My PhD was supervised by [Prof. Sebastian Deterding](https://www.york.ac.uk/tfti/staff/research/sebastian-deterding/) and [Prof. Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/)."
     actions: 
       - title: Skills
         url: '#skills'
@@ -63,7 +58,7 @@ sections:
         text: 11+ years programming with C#/C++, frontends with JS and backends with Java. C#, C++/C, Java, Python, JS, HTML5... and the curiosity to learn more!
         icon: fa-laptop-code text-info
       - title: Machine Learning
-        text: Theoretical and Practical. Interactive Machine Learning with low-level inference libraries (C++/C#), TensorFlow (C#/Python)
+        text: Theoretical and Practical. Machine Learning with low-level inference libraries (C++/C#), tensor-oriented libraries (C#/Python)
         icon: fa-brain      
       - title: Immersive Tech
         text: 9+ years experience on XR SDKs and APIs. Meta Quest, Steam, PSVR, ARToolkit/Vuforia
