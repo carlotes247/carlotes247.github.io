@@ -83,6 +83,38 @@ jQuery(function($) {
         autohide: 0
       }
     });
+
+    $('#develop-video').YTPlayer({
+      fitToBackground: false,
+      videoId: 'kkKU3MyBspM',
+      pauseOnScroll: false,
+      mute: false,
+      playerVars: {
+        modestbranding: 0,
+        autoplay: 0,
+        controls: 1,
+        showinfo: 1,
+        branding: 0,
+        rel: 0,
+        autohide: 0
+      }
+    });
+
+    $('#claire-video').YTPlayer({
+      fitToBackground: false,
+      videoId: 'WHiPav2l5gA',
+      pauseOnScroll: false,
+      mute: false,
+      playerVars: {
+        modestbranding: 0,
+        autoplay: 0,
+        controls: 1,
+        showinfo: 1,
+        branding: 0,
+        rel: 0,
+        autohide: 0
+      }
+    });
     
     var videoCallbackEvents = function() {
       var player = $('#background-video').data('ytPlayer').player;

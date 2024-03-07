@@ -7,7 +7,7 @@ layout: home
 header:
   title: Carlos Gonzalez Diaz
   text: >
-    Software Engineering and Playful Interactive AI and ML for Immersive Technologies. 
+    Machine Learning and Software Engineering for Interactive AI in Immersive Technologies. 
   action: # action button is optional
     label: More About Me
     url: '#about'
@@ -17,20 +17,17 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: "**Intelligent Games and Games Intelligence (IGGI) PhD**"
-    text: "I am a Software Engineer and a PhD Candidate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. 
-    
+    title: "**Machine Learning, Affective and Intelligent Interactive Media**"
+    text: "I am an AI Researcher and a Software Engineer and at the renowed Human-Centred Artificial Intelligence Chair at the University of Augsburg in Bavaria, Germany. In here, I am working on solving multi-user affective scenarios in VR via supervised and reinforcement learning. I work under German AI personality [Prof. Dr. Elisabeth André](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/hcm/team/andre/)
 
-    My current software engineering projects revolve around game technology systems for Unity and Unreal Engine, involving ***(1) gameplay programming, (2) networking, and (3) ML inference through supervised and reinforcement learning.***
-  
 
-    My current research interests are ***(1) Interactive use of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience.***   
-    
+    My current software engineering projects revolve around real-time interactive technology for game engines, involving ***(1) ML inference through supervised and reinforcement learning, (2) networking, and (3) gameplay programming.***  
 
-    The institutions where I am being trained to succeed in my doctorate are the University of York, Goldsmiths - University of London and Queen Mary - University of London. 
-    
-    
-    I am supervised by [Prof. Sebastian Deterding](https://www.york.ac.uk/tfti/staff/research/sebastian-deterding/) and [Prof. Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/)."
+
+    My current research interests are ***(1) Interactive uses of ML and AI, (2) Encouraging movement during user interaction, and (3) Understanding motivation and user/player experience.***       
+
+
+    I did my doctorate at the leading Center for Doctoral Training in Intelligent Games and Games Intelligence (IGGI) in the UK. In there, I worked in three different institutions: the University of York, Goldsmiths - University of London and Queen Mary - University of London. My PhD was supervised by [Prof. Sebastian Deterding](https://www.york.ac.uk/tfti/staff/research/sebastian-deterding/) and [Prof. Marco Gillies](https://www.gold.ac.uk/computing/staff/m-gillies/)."
     actions: 
       - title: Skills
         url: '#skills'
@@ -61,17 +58,17 @@ sections:
     title: Skills
     services:
       - title: Computer Science
-        text: 11+ years programming game technology with C#/C++, frontends with JS and backends with Java. C#, C++/C, Java, Python, JS, HTML5... and the curiosity to learn more!
+        text: 11+ years programming with C#/C++, frontends with JS and backends with Java. C#, C++/C, Java, Python, JS, HTML5... and the curiosity to learn more!
         icon: fa-laptop-code text-info
-      - title: HCI Research 
+      - title: Machine Learning
+        text: Theoretical and Practical. Machine Learning with low-level inference libraries (C++/C#), tensor-oriented libraries (C#/Python)
+        icon: fa-brain      
+      - title: Immersive Tech
+        text: 9+ years experience on XR SDKs and APIs. Meta Quest, Steam, PSVR, ARToolkit/Vuforia
+        icon: fa-vr-cardboard text-info
+      - title: Human-Centred Research 
         text: Qualitative and Quantitative methods, HCI, User Experience, Interaction Analysis
         icon: fa-user-graduate
-      - title: Immersive Tech
-        text: 7+ years experience on XR SDKs and APIs. Meta Quest, Steam, PSVR, ARToolkit/Vuforia
-        icon: fa-vr-cardboard text-info
-      - title: Machine Learning
-        text: Theoretical and Practical. Interactive Machine Learning with low-level inference libraries (C++/C#), TensorFlow (C#/Python)
-        icon: fa-brain
       - title: Games R&D
         text: Passion for games and games tech. PhD in ML for VR Games. Unity, Unreal Engine, Custom Engines.
         icon: fa-gamepad text-info
@@ -92,6 +89,12 @@ sections:
     background_style: bg-info text-light
     last_image: assets/img/members/Carlos_Picture_01_Medium.jpg
     actions:      
+      - image: assets/img/logos/augsburg_logo.jpeg
+        title: >+
+          2023
+          **Post-Doctoral Researcher in Multimodal Machine Learning**
+        text: >-
+            University of Augsburg. 1 year. C#, C++, Python (Pandas, Numpy, Scikit-Learn, PyTorch). 
       - image: assets/img/logos/UoYork.jpg
         title: >+
           2023
@@ -100,7 +103,7 @@ sections:
             University of York. 6 years. Interactive Machine Learning for VR Motion Gameplay Creation.             
       - image: assets/img/logos/uem.png
         title: >+
-          2023
+          2022
           **Course Authorship at Masters level in Unreal Engine Programming**
         text: >-
             European University of Madrid. Unreal Engine (Spain) 
@@ -310,24 +313,34 @@ sections:
     presentations:
       - title: Interactive Machine Learning for Expressive VR Game Interactions 
         text: Presentation for the yearly conference of my PhD
-        icon: 4.jpg
+        icon: white.jpg
         url: '#'
         vid: 'iggi-video'    
+      - title: CLAIRE Rising Researchers Network Lightning Talks
+        text: Presented at the Rising Researchers Network, giving an overview of my PhD research
+        icon: white.jpg
+        url: '#skills'
+        vid: 'claire-video'
+      - title: Talk and Develop:Brighton Conference
+        text: Presented at leading UK games conference Develop:Brighton, introducing InteractML
+        icon: white.jpg
+        url: '#skills'
+        vid: 'develop-video'
+      - title: Procedural Content Generation Summer School 2019
+        text: Small proyect attempting to combine procedural content generation of geometry together with a supervised learning algorithm trained on input data.
+        icon: white.jpg
+        url: '#about'
+        vid: 'pcg-video' 
       - title: Understanding Natural Controls in Virtual Reality Games
-        text: Presented at the Doctoral Symposium of the MOCO17 Conference, this talks briefly introduces the research during my first year of doctoral studies at the Univeristy of York.
-        icon: 2.jpg
+        text: Presented at the Doctoral Symposium of the MOCO17 Conference, this talk briefly introduces the research during my first year of doctoral studies at the Univeristy of York.
+        icon: white.jpg
         url: '#skills'
         vid: 'moco-video'
       - title: Game Dev London VR Presentation
         text: Introducing InteractML, a ML visual scripting framework for Unity        
-        icon: gamedevlondon.jpg
+        icon: white.jpg
         url: http://interactml.com/
         vid: 'gdl-video'
-      ##- title: Procedural Content Generation Summer School 2019
-        ##text: Small proyect attempting to combine procedural content generation of geometry together with a supervised learning algorithm trained on input data.
-        ##icon: 3.jpg
-        ##url: '#about'
-        ##vid: 'pcg-video' 
 
   # Awards
   - type: services.html
